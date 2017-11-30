@@ -1,0 +1,18 @@
+---
+title: Latest Dispatches
+permalink: "/blog/"
+layout: simple-page
+---
+
+<div class="col-md-8 col-md-offset-2">
+  {% for post in site.posts %}
+    <div class="post-area">
+      <h2>
+        <a href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.title }}</a>
+      </h2>
+      <div>
+        {{ post.content}}
+      </div>
+    </div>
+  {% endfor %}
+</div>
