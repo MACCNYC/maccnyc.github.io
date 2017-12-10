@@ -1,11 +1,18 @@
 ---
-title: Core Documents
-permalink: "/core-documents"
-description: Core documents describing how we organize
+title: Organizing Document
+permalink: "/organizing"
+description: Core document describing how MACC organizes.
+page_order: 1
 layout: document
 ---
 
-# MACC ORGANIZING DOCUMENTS
+[Back to Core Documents](/docs)
+
+# MACC Organizing Document
+{:.no_toc}
+
+* toc here
+{:toc}
 
 ## What is MACC?
 

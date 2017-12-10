@@ -5,8 +5,8 @@ collections:
   posts:
     title: Posts
     output: true
-  resources:
-    title: Resources
+  documents:
+    title: Documents
     output: true
     permalink: "/:collection/:name"
   uploads:
