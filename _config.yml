@@ -2,13 +2,13 @@
 title: MACC NYC
 timezone: UTC
 collections:
-  posts:
-    title: Posts
-    output: true
   documents:
     title: Documents
     output: true
     permalink: "/:collection/:name"
+  posts:
+    title: Posts
+    output: true
   uploads:
     title: Uploads
     output: true
