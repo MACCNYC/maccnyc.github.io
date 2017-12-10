@@ -16,7 +16,7 @@ layout: document
 
 ## What is MACC?
 
-The Metropolitan Anarchist Coordinating Council (MACC) is an organization based on the guiding principles of horizontalism, anti-oppression, mutual aid, direct democracy, and direct action. We seek to strengthen and support New York City’s anarchist movement through coordination of existing and emerging projects. With the present atmosphere of hatred, bigotry and greed, we seek to seed resistance to an emboldened right-wing through an alternative, radical form of participatory politics.
+The Metropolitan Anarchist Coordinating Council (MACC) is an organization based on the guiding principles of horizontalism, anti-oppression, mutual aid, direct democracy, and direct action. We seek to strengthen and support New York City’s anarchist movement through coordination of existing and emerging projects. With the present atmosphere of hatred, bigotry and greed, we create an alternative, radical form of participatory politics.
 
 ## Political Orientation
 
@@ -25,14 +25,24 @@ The MACC is an anarchist organization, and as such seeks the end of all hierarch
 ## Scope of Decision-making
 
 The MACC makes decisions pertaining directly to MACC and its constituent working groups. This includes, but is not limited to, the structure of MACC itself; the creation of new projects; ongoing projects undertaken by MACC or its constituent working groups; management of resources; media and community relations or representation; principles, vision and strategy; community agreements; Relationship to cultural, social, political, and economic organizations; and framing of statements made in its name.
+These types of decisions are made at the organizing meeting.
 
 ### MACC General Assembly
 
-The general assembly is for any individual who identifies as an anarchist or is interested in learning more about anarchism. The purpose of the assembly is to generate, coordinate, and decide on citywide statements or actions for the anarchist movement.
+The general assembly is for any individual who identifies as an anarchist or is interested in learning more about anarchism.
+The purpose of the assembly is to generate and coordinate on citywide statements or actions for the anarchist movement.
+
+### MACC Organizing Meeting
+The organizing meeting happens monthly.
+Anyone who has attended one GA can attend and bring proposals to the organizing meeting.
+Each working group is encouraged to send at least one member.
+The organizing meeting will reportback back at the GA and will share minutes from the meeting via the announcement list.
 
 ### MACC Working Groups
 
-The working groups are engaged in concrete tasks around building the MACC organization and the anarchist movement in NYC. They reportback to the organizing meetings for MACC and to the general assembly. Current working groups include infrastructure, media, propaganda, emergency action, legal, and anti-doxxing. New working groups are encouraged to form!
+The working groups are engaged in concrete tasks around building the MACC organization and the anarchist movements in NYC.
+They reportback to the general assembly.
+New working groups are encouraged to form!
 
 ## Principles
 
@@ -47,7 +57,7 @@ The working groups are engaged in concrete tasks around building the MACC organi
 *Horizontalism:* We are against entrenched power structures both within our own group and society as a whole. Therefore our mode of organizing shall be, to the fullest extent possible, horizontal rather than hierarchical.
 
 ## Goals
-* Challenging and eventually abolishing the state, capitalism and all structures or systems that uphold oppressive social institutions like white supremacy and patriarchy.
+* Challenging and eventually abolishing the state, capitalism and all structures or systems that uphold oppressive social institutions.
 * Facilitating the growth and advancement of the anarchist movement in New York City and beyond.
 * Building egalitarian and equitable social, political and economic structures that provide an alternative to the current system and stand as proof of concept for the efficacy of anarchism’s ideas.
 
@@ -55,6 +65,8 @@ The working groups are engaged in concrete tasks around building the MACC organi
 
 ### Assembly Agenda and Structure
 * Every assembly begins with a brief orientation for new participants. This will include, but not be limited to a discussion on shared principles, goals, structure, and the process used.
+* There will be brief explanation of process steps as they happen during the GA.
+* Concurrent with the orientation, there will be a GA planning meeting in which the agenda for the next General Assembly is discussed an decided.
 * Reportbacks/ PSAs
 * Discussion/Proposals
 * Additional items people bring that night
@@ -62,7 +74,7 @@ The working groups are engaged in concrete tasks around building the MACC organi
 
 ### Decision Making Process
 
-Both the MACC organizing meeting and MACC general assemblies use the consensus process of decision-making. Consensus is a form of decision-making that expresses the individual and collective voice. Rather than coercing people to make statements or take actions, consensus asks for the consent of all. This is in contrast to voting in which the majority rules regardless of how the minority is feeling. In consensus every voice is heard, and collaboration is encouraged over competition.
+The MACC organizing meeting uses the consensus process of decision-making. Consensus is a form of decision-making that expresses the individual and collective voice. Rather than coercing people to make statements or take actions, consensus asks for the consent of all. This is in contrast to voting in which the majority rules regardless of how the minority is feeling. In consensus every voice is heard, and collaboration is encouraged over competition.
 
 ### Process Flow
 Discussion ▶ Proposal ▶ Questions ▶ Concerns ▶ Stand-asides ▶ Blocks ▶ Consensus!
@@ -74,7 +86,7 @@ participants in the assembly. This will be discussed generally, and then more sp
 
 *Questions:* Inquiries that help to further clarify the proposal.
 
-*Concerns:* Reservations whether political or logistical about a proposal.
+*Concerns:* Reservations, political or logistical, about a proposal.
 
 *Stand-asides:* If a participant has serious reservations but sees no harm in other participants moving forward with something, then they may stand aside.
 
@@ -89,13 +101,18 @@ If a proposal cannot reach consensus, then the process drops to a 9/10 majority 
 ### Meeting Roles
 
 *Facilitator:* Helps to guide the group through its own process. They listen to, reflect on, and synthesize information that is spoken, written, or felt in the group. They encourage participation by asking questions and helping to clarify what people want to say or do.
+The facilitator makes sure that roles are filled for the GA they are facilitating and also ensures that there is a facilitator for the next meeting.
 
 *Stacktaker:* Keeps a list of those who want to speak and calls on them in order.
+As a general principle, the stacktaker should prioritize people who have not spoken yet or have not spoken as much.
 
 *Timekeeper:* Makes sure the meeting is on schedule, and that people are respectful of each others time speaking.
 
 *Notetaker:* Writes notes of the agenda, general topics discussed, and decisions reached.
+The notetaker is responsible for emailing the notes to the organizing list.
 
 *Vibes watcher/De-escalator:* Addresses conflicts that arise in the course of a meeting and attempts to resolve them or remove people from the space, so that the meeting can continue.
 
-*Greeter:* Someone who welcomes people to the assembly and helps orient them to the process.
+*Greeter:* There will be two greeters.
+A greeter welcomes people to the assembly and helps orient them to the process.
+These greeters will also gather the email addresses of new people and reach out to them after the GA to help them plug into working groups.
