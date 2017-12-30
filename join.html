@@ -5,11 +5,24 @@ layout: page
 ---
 
 <style type="text/css">
+  body {
+    background: #EB2524;
+  }
+
   h1, h2 {
     text-transform: uppercase;
     text-align: center;
-    font-family: Impact, "Arial Narrow", Arial, sans-serif;
     font-weight: 800;
+    color: #FFF;
+  }
+
+  a {
+    color: #FFF;
+    text-decoration: underline !important;
+  }
+
+  a:hover {
+    color: #000;
   }
 
   h1 {
@@ -17,60 +30,154 @@ layout: page
   }
 
   h2 {
-    font-size: 30px;
+    font-size: 40px;
   }
+
+  .join-header {
+    position: relative;
+  }
+
+  .macc_2018 {
+    width: 50vw;
+    margin: auto;
+    display: block;
+    padding-top: 30px;
+  }
+
+  .champagne {
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+    z-index: -1;
+  }
+
+  .events {
+    overflow: hidden;
+    max-width: 850px;
+    margin: auto;
+  }
+
+  .events-list {
+    background: #FFF;
+    width: 46%;
+    float: left;
+    margin: 0 2%;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+
+  .events-list h3 {
+    margin-top: 0;
+  }
+  .events-list a, .join-footer a {
+    color: #000;
+    white-space: nowrap;
+  }
+
+  .see-calendar {
+    text-align: center;
+    margin: 20px;
+  }
+
+  .join-footer {
+    background: #FFF;
+    margin-bottom: 50px;
+  }
+
+  @media (max-width: 600px) {
+    .events-list {
+      width: 96%;
+    }
+
+    h1 {
+      font-size: 50px;
+    }
+
+    h2 {
+      font-size: 20px;
+    }
+  }
+
 </style>
 
-<h1>Join The Resistance</h1>
-<h2>Make it Your New Years Resolution</h2>
+<div class="join-header">
+  <img class="macc_2018" src="{{ stie.url }}/img/MACC_NewYears_2018mark_White.png" />
+  <h1>Join The Resistance</h1>
+  <h2>Make it Your New Years Resolution</h2>
+  <img class="champagne" src="{{ stie.url }}/img/MACC_NewYears_ChampagneIllustration.png" />
+</div>
 
-
-<div class="container">
-  <div class="row">
-    <div class="col-md-6 events-list">
-      <h3>Upcoming Events at The Base</h3>
+<div class="events">
+    <div class="events-list">
+      <h3>Upcoming Events at <a href="https://thebasebk.org/">The Base</a></h3>
       <div>
         <p>
           <strong>Facilitation</strong>
-          <br/>Saturday, January 27th
-          <br/>2-4 pm
+          <br/>Saturday, January 27th, 2-4 pm
+          <br/><a href="https://www.facebook.com/events/170608440206899/">Facebook</a> |
+          <a href="https://tockify.com/mlsupport/detail/46/1517079600000">Calendar</a>
         </p>
 
         <p>
           <strong>Media Strategy</strong>
-          <br/>Saturday, Febuary 24th
-          <br/>2-4 pm
+          <br/>Saturday, Febuary 24th, 2-4 pm
+          <br/><!-- <a href="">Facebook</a> | -->
+          <a href="https://tockify.com/mlsupport/detail/47/1519498800000">Calendar</a>
         </p>
 
         <p>
           <strong>Direct Action Planning</strong>
-          <br/>Saturday, March 31
-          <br/>2-4 pm
+          <br/>Saturday, March 31, 2-4 pm
+          <br/><!-- <a href="">Facebook</a> | -->
+          <a href="https://tockify.com/mlsupport/detail/48/1522519200000">Calendar</a>
         </p>
       </div>
     </div>
-    <div class="col-md-6 events-list">
-      <h3>Book Discussions at Bluestockings</h3>
+    <div class="events-list">
+      <h3>Book Discussions at <a href="http://bluestockings.com/">Bluestockings</a></h3>
       <div>
         <p>
           <strong>
             <em>The Dispossessed</em> by Ursula K. Legion
           </strong>
-          <br/>Sunday, January 28th
-          <br/>4-6 pm
+          <br/>Sunday, January 28th, 4-6 pm
+          <br/><a href="https://www.facebook.com/events/1970766512996443/">Facebook</a> |
+          <a href="https://tockify.com/mlsupport/detail/44/1517173200000">Calendar</a>
         </p>
 
         <p>
           <strong>
             <em>All About Love</em> by bell hooks
           </strong>
-          <br/>Sunday, Febuary 25th
-          <br/>4-6 pm
+          <br/>Sunday, Febuary 25th, 4-6 pm
+          <br/><a href="https://www.facebook.com/events/163639391034263/">Facebook</a> |
+          <a href="https://tockify.com/mlsupport/detail/45/1519592400000">Calendar</a>
         </p>
       </div>
     </div>
-    <div class="col-md-12 text-center">
-      <h3><a href="/events">See our calendar for more upcoming events!</a><h3>
+</div>
+
+<div class="see-calendar">
+  <h2>See <a href="/events">our calendar</a> for more upcoming events</h2>
+</div>
+
+<div class="container join-footer">
+  <div class="row">
+    <div class="col-md-6">
+      <h3>Other ways to get involved</h3>
+      Attending a monthly General Assembly is a great way to get connected to MACC working groups and projects!
+      <a href="/events">Check our calendar for upcoming General Assemblies.</a>
+
+      <br/><br/>
+      You can also follow us on
+          <a href="https://www.facebook.com/MACCnyc/" alt="twitter">Facebook</a> or
+          <a href="http://www.twitter.com/macc_nyc" alt="twitter">Twitter</a> to get updates about MACC projects and events.
+    </div>
+
+    <div class="col-md-6">
+      <h3>Join our mailing list</h3>
+      {% include signup.html %}
     </div>
   </div>
 </div>
