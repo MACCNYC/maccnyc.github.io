@@ -4,7 +4,7 @@ permalink: "/donate"
 layout: simple-page
 ---
 
-Monetary support helps us keep the lights on for our [working groups](/groups), and helps us support our comrades doing political work. Support cost often includes bail, other legal expenses, and medical expenses. Thank you for any support you can give!
+Monetary support helps us keep the lights on for our [working groups](https://wiki.macc.nyc/wiki/Category:Working_Groups), and helps us support our comrades doing political work. Support cost often includes bail, other legal expenses, and medical expenses. Thank you for any support you can give!
 
 ## One time support
 
