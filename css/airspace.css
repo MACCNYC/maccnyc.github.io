@@ -745,7 +745,9 @@ content-grid-wrapper {
 }
 
 #mc_embed_signup .button {
-    background: #000 !important;
+  background: #000 !important;
+  color: white;
+  border-radius: 5px
 }
 
 .contact-homepage {
