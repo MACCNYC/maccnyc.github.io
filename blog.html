@@ -5,14 +5,20 @@ layout: simple-page
 ---
 
 <div class="col-md-8 col-md-offset-2">
-  {% for post in site.posts %}
-    <div class="post-area">
-      <h2>
-        <a href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.title }}</a>
-      </h2>
-      <div>
-        {{ post.content}}
-      </div>
+  {% for post in site.posts limit: 3 %}
+    <h2>
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </h2>
+    <div>
+      {{ post.content}}
     </div>
+    <hr />
   {% endfor %}
+
+  <h2>Archive</h2>
+  <div class="list-group">
+  {% for post in site.posts offset: 3 %}
+      <a class="list-group-item list-group-item-action" href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.title }}</a>
+  {% endfor %}
+  </div>
 </div>
