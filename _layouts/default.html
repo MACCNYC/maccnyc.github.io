@@ -13,5 +13,14 @@
 
     {% include footer.html %}
 
+
+    <script type="text/javascript">
+      document
+        .getElementById('navbar-toggle')
+        .addEventListener('click', function() {
+          const nav = document.getElementById('navbar-collapse');
+          nav.className = nav.className != "show" && "show";
+        });
+    </script>
     </body>
 </html>

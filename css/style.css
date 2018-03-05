@@ -16,3 +16,11 @@
    text-align: center;
  }
 
+@media (max-width: 768px) {
+  #navbar-collapse {
+    display: none;
+  }
+  #navbar-collapse.show {
+    display: block;
+  }
+}
