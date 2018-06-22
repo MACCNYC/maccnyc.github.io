@@ -39,6 +39,7 @@ layout: page
 
   .macc_2018 {
     width: 50vw;
+    max-width: 200px;
     margin: auto;
     display: block;
     padding-top: 30px;
@@ -54,7 +55,7 @@ layout: page
 
   .events {
     overflow: hidden;
-    max-width: 850px;
+    max-width: 900px;
     margin: auto;
   }
 
@@ -85,7 +86,11 @@ layout: page
     margin-bottom: 50px;
   }
 
-  @media (max-width: 600px) {
+  .events img {
+      max-width: 100%;
+  }
+
+  @media (max-width: 700px) {
     .events-list {
       width: 96%;
     }
@@ -104,52 +109,36 @@ layout: page
 <div class="join-header">
   <img class="macc_2018" src="{{ stie.url }}/img/MACC_NewYears_2018mark_White.png" />
   <h1>Join The Resistance</h1>
-  <h2>Make it Your New Year's Resolution</h2>
-  <img class="champagne" src="{{ stie.url }}/img/MACC_NewYears_ChampagneIllustration.png" />
 </div>
 
 <div class="events">
     <div class="events-list">
-      <h3>Upcoming Trainings at <a href="https://thebasebk.org/">The Base</a></h3>
+      <h3>HAPPENING NOW</br> <strong>#OccupyICENYC</strong></h3>
       <div>
-        <p>Attend a training to gather new skills and connect with MACC participants.</p>
+        <p>Read <a href="{{ stie.url }}/2018/06/22/OccupyICE.html">our statment</a> and come help hold down the occupation.</p>
         <p>
-          <strong>Direct Action Planning</strong>
-          <br/>Saturday, March 31, 2-4 pm
-          <br/><a href="https://www.facebook.com/events/1588250521258548/">Facebook</a> |
-          <a href="https://tockify.com/mlsupport/detail/48/1522519200000">Calendar</a>
+          Follow <a href="https://twitter.com/occupyicenyc">@OccupyICENYC</a>
         </p>
+        <a href="https://twitter.com/occupyicenyc">
+          <img src="{{ stie.url }}/img/occupyice.jpg">
+        </a>
       </div>
     </div>
     <div class="events-list">
-      <h3>Book Discussions at <a href="http://bluestockings.com/">Bluestockings</a></h3>
+      <h3>On going work </br> <strong>No Platform for Fascism</strong></h3>
       <div>
         <p>
-          If you’re looking to talk about anarchist ideas, join our monthly book discussion. We’ll be picking future books during these first meet ups.
+          <a href="https://noplatform.macc.nyc/">Download our browser plugin</a> and help us report hateful fascist content on YouTube. You'll get a few videos each week curated by a team of researchers that you can report to YouTube in one click.
         </p>
-        <p>
-          <strong>
-            <em>The Fifth Sacred Thing</em> by Starhawk
-          </strong>
-          <br/>Sunday, March 25th, 4-6 pm
-          <br/><a href="https://www.facebook.com/events/2119111148320095/">Facebook</a> |
-          <a href="https://tockify.com/mlsupport/detail/57/1522008000000">Calendar</a>
-        </p>
-
-        <p>
-          <strong>
-            Abdullah Öcalan's Brochures
-          </strong>
-          <br/>Sunday, April 29th, 4-6 pm
-          <br/><a href="https://www.facebook.com/events/2289245731101424/">Facebook</a> |
-          <a href="https://tockify.com/mlsupport/detail/58/1525032000000">Calendar</a>
-        </p>
+        <a href="https://noplatform.macc.nyc/">
+          <img src="{{ stie.url }}/img/NoPlatform.png">
+        </a>
       </div>
     </div>
 </div>
 
 <div class="see-calendar">
-  <h2>See <a href="/events">our calendar</a> for more upcoming events</h2>
+  <h2>See <a href="/events">our calendar</a> for upcoming events</h2>
 </div>
 
 <div class="container join-footer">
