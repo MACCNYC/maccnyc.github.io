@@ -1,7 +1,8 @@
 ---
-title: Call to #OccupyICENYC
+title: Call to
+date: 2018-06-22 00:00:00 Z
 ---
-    
+
 #OccupyICENYC
 Friday, 6/22, 5 P.M. 
 201 Varick Street, Manhattan
