@@ -1,5 +1,5 @@
 ---
-title: "Call to #OccupyICENYC / Llamada a Ocupar ICE"
+title: 'Call to #OccupyICENYC / Llamada a Ocupar ICE'
 date: 2018-06-22 00:00:00 Z
 ---
 
