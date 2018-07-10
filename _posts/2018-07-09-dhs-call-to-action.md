@@ -8,11 +8,11 @@ New York, NY – Activists affiliated with the Metropolitan Anarchist Coordinati
 
 New York City is home to an estimated 500,000 undocumented residents and, despite Sanctuary status, hosts numerous ICE facilities that oversaw over 2,000 deportations in 2017. While De Blasio and the city administration [pretend to defend immigrants and stand against ICE](https://citylimits.org/2017/07/10/major-impact-seen-from-mayors-carve-out-of-deportation-defense-program/), they simultaneously advocate for "broken windows" policing. ["Broken windows" policies have been shown to disproportionately affect communities of color and the poor](www.crainsnewyork.com/article/20180221/OPINION/180219910/unmasking-de-blasio-champion-of-broken-windows), funneling these communities into the criminal justice system and, through data sharing from NYPD to the FBI to ICE, putting them at risk for arrest, detention, and deportation by ICE.
 
-<b>What: #AbolishICE demonstration protesting DHS/ICE/CBP border regimes and NYC’s “Sanctuary City” administration acting in complicity with DHS/ICE </b>
+<b><u>What:</u> #AbolishICE demonstration protesting DHS/ICE/CBP border regimes and NYC’s “Sanctuary City” administration acting in complicity with DHS/ICE </b>
 
-<b>Where: Sheraton Times Square, 811 7th Avenue 53rd St., New York, NY, 10019 </b>
+<b><u>Where:</u> Sheraton Times Square, 811 7th Avenue 53rd St., New York, NY, 10019 </b>
 
-<b>When: Tuesday, July 10th, 9AM </b>
+<b><u>When:</u> Tuesday, July 10th, 9AM </b>
 
 While the national movement to Abolish ICE has emphasized a need for greater protections for immigrants in local municipalities and an end to policies like family separation at the border ([which remains unresolved](https://www.washingtonpost.com/local/immigration/2018/07/09/3a253b22-838a-11e8-8553-a3ce89036c78_story.html?noredirect=on&utm_term=.04850a74b985)), MACC activists trace their lineage to "alterglobalization" protests, saying that the issue demands much broader political change. "The Department of Homeland Security conference is an abhorrent celebration of border militarization and mass-surveillance, ultimately used to target immigrants for state violence," said Matthew Whitley, an organizer with MACC. “When we say Abolish ICE, however, it’s not a call to replace it with a slightly less cruel and inhumane bureaucracy.” Whitley continued, “This is just one part of a decades long international struggle for freedom of movement that is claiming lives daily.  Until we have just and egalitarian economic and political systems, borders will continue to reflect our “free trade” world, designed quite intentionally to globalize the rich and localize the poor.  The result is further racism and xenophobia, but the causes are political and economic institutions that harden inequalities and disenfranchise the struggling, the desperate and the working class.” 
 
