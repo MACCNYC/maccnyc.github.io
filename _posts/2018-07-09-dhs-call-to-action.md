@@ -28,3 +28,6 @@ MACC and its co-sponsoring partners intend to continue Abolish ICE actions in th
 ---
 
 ###### _This release is intended to reflect MACC's participation in this demonstration.  We encourage journalists to contact partnering organizations for their perspectives._
+---
+
+Email press@macc.nyc for inquiries
