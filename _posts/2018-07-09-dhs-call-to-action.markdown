@@ -1,6 +1,5 @@
 ---
-title: #AbolishICE Protests Target National Homeland Security Conference & Mayor DeBlasio to Demand “ICE Out of NYC”
-date: 2018-07-09
+date: 2018-07-09 00:00:00 Z
 layout: post
 author: MACC NYC
 ---
