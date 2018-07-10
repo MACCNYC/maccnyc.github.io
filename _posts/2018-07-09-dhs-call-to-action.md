@@ -10,11 +10,14 @@ New York City is home to an estimated 500,000 undocumented residents and, despit
 
 ---
 
-####<b><u>What:</u> #AbolishICE demonstration protesting DHS/ICE/CBP border regimes and NYC’s “Sanctuary City” administration acting in complicity with DHS/ICE </b>
+### <b><u>What:</u></b> 
+  <b>#AbolishICE demonstration protesting DHS/ICE/CBP border regimes and NYC’s “Sanctuary City” administration acting in complicity with DHS/ICE </b>
 
-####<b><u>Where:</u> Sheraton Times Square, 811 7th Avenue 53rd St., New York, NY, 10019 </b>
+### <b><u>Where:</u></b> 
+  <b>Sheraton Times Square, 811 7th Avenue 53rd St., New York, NY, 10019 </b>
 
-####<b><u>When:</u> Tuesday, July 10th, 9AM </b>
+### <b><u>When:</u></b>
+  <b>Tuesday, July 10th, 9AM </b>
 
 ---
 
