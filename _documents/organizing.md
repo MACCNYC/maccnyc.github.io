@@ -36,7 +36,7 @@ The purpose of the assembly is to generate and coordinate on citywide statements
 The Organizing Assembly happens monthly.
 Anyone who has attended one GA can attend and bring proposals to the Organizing Assembly.
 Each working group is encouraged to send at least one member.
-The Organizing Assembly will reportback back at the GA and will share minutes from the meeting via the announcement list.
+The Organizing Assembly will reportback back at the GA and will share minutes from the meeting via the internal mailing list.
 
 ### MACC Working Groups
 
@@ -109,7 +109,7 @@ As a general principle, the stacktaker should prioritize people who have not spo
 *Timekeeper:* Makes sure the meeting is on schedule, and that people are respectful of each others time speaking.
 
 *Notetaker:* Writes notes of the agenda, general topics discussed, and decisions reached.
-The notetaker is responsible for emailing the notes to the organizing list.
+The notetaker is responsible for emailing the notes to the internal mailing list.
 
 *Vibes watcher/De-escalator:* Addresses conflicts that arise in the course of a meeting and attempts to resolve them or remove people from the space, so that the meeting can continue.
 
