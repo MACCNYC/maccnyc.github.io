@@ -16,15 +16,21 @@ layout: document
 
 ## What is MACC?
 
-The Metropolitan Anarchist Coordinating Council (MACC) is an organization based on the guiding principles of horizontalism, anti-oppression, mutual aid, direct democracy, and direct action. We seek to strengthen and support New York City’s anarchist movement through coordination of existing and emerging projects. With the present atmosphere of hatred, bigotry and greed, we create an alternative, radical form of participatory politics.
+The Metropolitan Anarchist Coordinating Council (MACC) is an organization based on the guiding principles of horizontalism, anti-oppression, mutual aid, direct democracy, and direct action.
+We seek to strengthen and support New York City’s anarchist movement through coordination of existing and emerging projects.
+With the present atmosphere of hatred, bigotry and greed, we create an alternative, radical form of participatory politics.
 
 ## Political Orientation
 
-The MACC is an anarchist organization, and as such seeks the end of all hierarchical power structures that enable the exploitation and oppression that characterize our current society. This includes the state, the capitalist economic system, white supremacy, patriarchy and other authoritarian institutions. We believe that combating forces such as these require not piecemeal reforms but a true social and economic revolution, achieved through direct action.
+The MACC is an anarchist organization, and as such seeks the end of all hierarchical power structures that enable the exploitation and oppression that characterize our current society.
+This includes the state, the capitalist economic system, white supremacy, patriarchy and other authoritarian institutions.
+We believe that combating forces such as these require not piecemeal reforms but a true social and economic revolution, achieved through direct action.
 
 ## Scope of Decision-making
 
-The MACC makes decisions pertaining directly to MACC and its constituent working groups. This includes, but is not limited to, the structure of MACC itself; the creation of new projects; ongoing projects undertaken by MACC or its constituent working groups; management of resources; media and community relations or representation; principles, vision and strategy; community agreements; Relationship to cultural, social, political, and economic organizations; and framing of statements made in its name.
+The MACC makes decisions pertaining directly to MACC and its constituent working groups.
+This includes, but is not limited to,
+the structure of MACC itself; the creation of new projects; ongoing projects undertaken by MACC or its constituent working groups; management of resources; media and community relations or representation; principles, vision and strategy; community agreements; Relationship to cultural, social, political, and economic organizations; and framing of statements made in its name.
 These types of decisions are made at the Organizing Assembly.
 
 ### MACC General Assembly
@@ -66,21 +72,26 @@ New working groups are encouraged to form!
 ### Assembly Agenda and Structure
 * Every assembly begins with a brief orientation for new participants. This will include, but not be limited to a discussion on shared principles, goals, structure, and the process used.
 * There will be brief explanation of process steps as they happen during the GA.
-* Concurrent with the orientation, there will be a GA planning meeting in which the agenda for the next General Assembly is discussed an decided.
-* Reportbacks/ PSAs
-* Discussion/Proposals
+* Reportbacks / PSAs
+* Discussion / Proposals
 * Additional items people bring that night
-* Break-outs for MACC working groups and movement groups All meetings are no more than 90 min in length.
+* Break-outs for MACC working groups and movement groups
+* All meetings are no more than 90 min in length
 
 ### Decision Making Process
 
-The MACC Organizing Assembly uses the consensus process of decision-making. Consensus is a form of decision-making that expresses the individual and collective voice. Rather than coercing people to make statements or take actions, consensus asks for the consent of all. This is in contrast to voting in which the majority rules regardless of how the minority is feeling. In consensus every voice is heard, and collaboration is encouraged over competition.
+The MACC Organizing Assembly uses the consensus process of decision-making.
+Consensus is a form of decision-making that expresses the individual and collective voice.
+Rather than coercing people to make statements or take actions, consensus asks for the consent of all.
+This is in contrast to voting in which the majority rules regardless of how the minority is feeling.
+In consensus every voice is heard, and collaboration is encouraged over competition.
 
 ### Process Flow
 Discussion ▶ Proposal ▶ Questions ▶ Concerns ▶ Stand-asides ▶ Blocks ▶ Consensus!
 
-*Discussion:* There may be a topic brought forward by the MACC Organizing Assembly or
-participants in the assembly. This will be discussed generally, and then more specifically until the political point or course of action is clear. The facilitator or one of the assembly participants may synthesize the discussion into a proposal.
+*Discussion:* There may be a topic brought forward by the MACC Organizing Assembly or participants in the assembly.
+This will be discussed generally, and then more specifically until the political point or course of action is clear.
+The facilitator or one of the assembly participants may synthesize the discussion into a proposal.
 
 *Proposal:* An idea or course of action that is up for decision.
 
@@ -96,11 +107,16 @@ participants in the assembly. This will be discussed generally, and then more sp
 
 ### Modified Consensus
 
-If a proposal cannot reach consensus, then the process drops to a 9/10 majority vote. Even then, though, the people who do not support the proposal are not compelled by the assembly to carry out the decision. They are not coerced, but withdraw their participation, so that others can move forward. The operating principle is still consent of all.
+If a proposal cannot reach consensus, then the process drops to a 9/10 majority vote.
+Even then, though, the people who do not support the proposal are not compelled by the assembly to carry out the decision.
+They are not coerced, but withdraw their participation, so that others can move forward.
+The operating principle is still consent of all.
 
 ### Meeting Roles
 
-*Facilitator:* Helps to guide the group through its own process. They listen to, reflect on, and synthesize information that is spoken, written, or felt in the group. They encourage participation by asking questions and helping to clarify what people want to say or do.
+*Facilitator:* Helps to guide the group through its own process.
+They listen to, reflect on, and synthesize information that is spoken, written, or felt in the group.
+They encourage participation by asking questions and helping to clarify what people want to say or do.
 The facilitator makes sure that roles are filled for the GA they are facilitating and also ensures that there is a facilitator for the next meeting.
 
 *Stacktaker:* Keeps a list of those who want to speak and calls on them in order.
