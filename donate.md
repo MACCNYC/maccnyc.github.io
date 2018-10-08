@@ -40,6 +40,7 @@ Monetary support helps us keep the lights on for our [working groups](https://wi
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+Or click "Donate" above and select "Make this a monthly donation."
 
 ## <a href="http://www.macclegalfund.org">Pledge to the Bail Fund</a>
 
