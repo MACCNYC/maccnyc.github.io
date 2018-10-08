@@ -25,18 +25,18 @@ The MACC is an anarchist organization, and as such seeks the end of all hierarch
 ## Scope of Decision-making
 
 The MACC makes decisions pertaining directly to MACC and its constituent working groups. This includes, but is not limited to, the structure of MACC itself; the creation of new projects; ongoing projects undertaken by MACC or its constituent working groups; management of resources; media and community relations or representation; principles, vision and strategy; community agreements; Relationship to cultural, social, political, and economic organizations; and framing of statements made in its name.
-These types of decisions are made at the organizing meeting.
+These types of decisions are made at the Organizing Assembly.
 
 ### MACC General Assembly
 
 The general assembly is for any individual who identifies as an anarchist or is interested in learning more about anarchism.
 The purpose of the assembly is to generate and coordinate on citywide statements or actions for the anarchist movement.
 
-### MACC Organizing Meeting
-The organizing meeting happens monthly.
-Anyone who has attended one GA can attend and bring proposals to the organizing meeting.
+### MACC Organizing Assembly
+The Organizing Assembly happens monthly.
+Anyone who has attended one GA can attend and bring proposals to the Organizing Assembly.
 Each working group is encouraged to send at least one member.
-The organizing meeting will reportback back at the GA and will share minutes from the meeting via the announcement list.
+The Organizing Assembly will reportback back at the GA and will share minutes from the meeting via the announcement list.
 
 ### MACC Working Groups
 
@@ -74,12 +74,12 @@ New working groups are encouraged to form!
 
 ### Decision Making Process
 
-The MACC organizing meeting uses the consensus process of decision-making. Consensus is a form of decision-making that expresses the individual and collective voice. Rather than coercing people to make statements or take actions, consensus asks for the consent of all. This is in contrast to voting in which the majority rules regardless of how the minority is feeling. In consensus every voice is heard, and collaboration is encouraged over competition.
+The MACC Organizing Assembly uses the consensus process of decision-making. Consensus is a form of decision-making that expresses the individual and collective voice. Rather than coercing people to make statements or take actions, consensus asks for the consent of all. This is in contrast to voting in which the majority rules regardless of how the minority is feeling. In consensus every voice is heard, and collaboration is encouraged over competition.
 
 ### Process Flow
 Discussion ▶ Proposal ▶ Questions ▶ Concerns ▶ Stand-asides ▶ Blocks ▶ Consensus!
 
-*Discussion:* There may be a topic brought forward by the MACC organizing meeting or
+*Discussion:* There may be a topic brought forward by the MACC Organizing Assembly or
 participants in the assembly. This will be discussed generally, and then more specifically until the political point or course of action is clear. The facilitator or one of the assembly participants may synthesize the discussion into a proposal.
 
 *Proposal:* An idea or course of action that is up for decision.
