@@ -12,5 +12,18 @@
         </div>
       </div>
     </div>
+    <div>
+
+
+    {% capture translated_url %}{% tl {{page.namespace}} %}{% endcapture %}
+    {% if translated_url == "" %}
+      <a href="/es{{ page.url }}">Español</a> |
+      <a href="{{ page.permalink }}">English</a>
+    {% else %}
+      <a href="{% tl {{page.namespace}} es %}">Español</a> |
+      <a href="{% tl {{page.namespace}} en %}">English</a>
+    {% endif %}
+
+    </div>
   </div>
 </footer>
