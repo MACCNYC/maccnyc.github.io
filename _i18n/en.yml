@@ -1,6 +1,17 @@
 global:
   title: MACC NYC
   description: The Metropolitan Anarchist Coordinating Council (MACC) is an organization based on the guiding principles of horizontalism, anti-oppression, mutual aid, direct democracy, and direct action.
+header:
+  pages:
+    Join: Join
+    Donate: Donate
+    Dispatches: Dispatches
+    Events: Events
+    Documents: Documents
+footer:
+  About_us: About us
+  Contact_us: Contact us
+  Website_Source: Website Source
 about:
   About_us: About us
   About_us_blurb: >
@@ -20,13 +31,6 @@ about:
     <a href="http://www.twitter.com/macc_nyc" alt="twitter">Twitter</a>,
     check out our <a href="/blog">latest dispatches</a>, or
     sign up for our mailing list.
-header:
-  pages:
-    Join: Join
-    Donate: Donate
-    Dispatches: Dispatches
-    Events: Events
-    Documents: Documents
 donate:
   Monthly_donation: Monthly donation
   Monetary_support: Monetary support helps us keep the lights on for our <a href="https://wiki.macc.nyc/wiki/Category:Working_Groups">working groups</a>, and helps us support our comrades doing political work. Support cost often includes bail, other legal expenses, and medical expenses. Thank you for any support you can give!
