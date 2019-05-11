@@ -6,6 +6,15 @@
 <meta name="og:image" content="/img/logo_rectangle.jpg">
 <link rel="shortcut icon" type="image/png" href="/favicon.png"/>
 
+{% capture translated_url %}{% tl {{page.namespace}} %}{% endcapture %}
+{% if translated_url == blank %}
+  <link rel="alternate" hreflang="es" href="{% tl {{page.namespace}} es %}" title="{% t global.in_spanish %}">
+  <link rel="alternate" hreflang="en" href="{% tl {{page.namespace}} en %}" title="{% t global.in_english %}">
+{% else %}
+  <link rel="alternate" hreflang="es" href="/es{{ page.url }}" title="{% t global.in_spanish %}">
+  <link rel="alternate" hreflang="en" href="{{ page.url }}" title="{% t global.in_english %}">
+{% endif %}
+
 <!-- CSS -->
 <link rel="stylesheet" href="{{ '/css/bootstrap.min.css' | prepend: site.baseurl_root }}" />
 <link rel="stylesheet" href="{{ '/css/airspace.css'  | prepend: site.baseurl_root }}"/>

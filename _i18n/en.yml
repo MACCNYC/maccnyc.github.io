@@ -1,6 +1,8 @@
 global:
   title: MACC NYC
   description: The Metropolitan Anarchist Coordinating Council (MACC) is an organization based on the guiding principles of horizontalism, anti-oppression, mutual aid, direct democracy, and direct action.
+  in_english: This page in English
+  in_spanish: This page in Spanish
 header:
   pages:
     Join: Join
