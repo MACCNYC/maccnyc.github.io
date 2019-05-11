@@ -4,34 +4,34 @@ permalink: "/donate"
 layout: simple-page
 ---
 
-Monetary support helps us keep the lights on for our [working groups](https://wiki.macc.nyc/wiki/Category:Working_Groups), and helps us support our comrades doing political work. Support cost often includes bail, other legal expenses, and medical expenses. Thank you for any support you can give!
+{% t donate.Monetary_support %}
 
-## One time support
+## {% t donate.One_time_support %}
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="H6RL4XCPSLHKW">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input type="image" src="{% t donate.donate_button %}" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-## Monthly support
+## {% t donate.Monthly_support %}
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <select name="os0">
-    <option value="$5 Donation">Monthly donation: $5 USD</option>
-    <option value="$10 Donation">Monthly donation: $10 USD</option>
-    <option value="$15 Donation">Monthly donation: $15 USD</option>
-    <option value="$20 Donation">Monthly donation: $20 USD</option>
-    <option value="$25 Donation">Monthly donation: $25 USD</option>
-    <option value="$30 Donation">Monthly donation: $30 USD</option>
-    <option value="$35 Donation">Monthly donation: $35 USD</option>
-    <option value="$40 Donation">Monthly donation: $40 USD</option>
-    <option value="$45 Donation">Monthly donation: $45 USD</option>
-    <option value="$50 Donation">Monthly donation: $50 USD</option>
+    <option value="$5 Donation">{% t donate.Monthly_donation %}: $5 USD</option>
+    <option value="$10 Donation">{% t donate.Monthly_donation %}: $10 USD</option>
+    <option value="$15 Donation">{% t donate.Monthly_donation %}: $15 USD</option>
+    <option value="$20 Donation">{% t donate.Monthly_donation %}: $20 USD</option>
+    <option value="$25 Donation">{% t donate.Monthly_donation %}: $25 USD</option>
+    <option value="$30 Donation">{% t donate.Monthly_donation %}: $30 USD</option>
+    <option value="$35 Donation">{% t donate.Monthly_donation %}: $35 USD</option>
+    <option value="$40 Donation">{% t donate.Monthly_donation %}: $40 USD</option>
+    <option value="$45 Donation">{% t donate.Monthly_donation %}: $45 USD</option>
+    <option value="$50 Donation">{% t donate.Monthly_donation %}: $50 USD</option>
 </select>
 <br/><br/>
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_subscribe_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input type="image" src="{% t donate.subscribe_button %}" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="U2UPMHXPUJT6J">
 <input type="hidden" name="on0" value="Donation Subscription Options">
@@ -40,8 +40,7 @@ Monetary support helps us keep the lights on for our [working groups](https://wi
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-Or click "Donate" above and select "Make this a monthly donation."
+{% t donate.or_click_above %}
 
-## <a href="http://www.macclegalfund.org">Pledge to the Bail Fund</a>
-
-If you pledge to the Bail Fund, we'll only charge you card when/if we need it to bail someone out. You set the parameters! <a href="http://www.macclegalfund.org">Pledge here!</a>
+## [{% t donate.Pledge_to_bail_fund %}](http://www.macclegalfund.org)
+{% t donate.bail_fund_explanation %}

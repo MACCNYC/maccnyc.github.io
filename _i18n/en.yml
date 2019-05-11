@@ -27,3 +27,14 @@ header:
     Dispatches: Dispatches
     Events: Events
     Documents: Documents
+donate:
+  Monthly_donation: Monthly donation
+  Monetary_support: Monetary support helps us keep the lights on for our <a href="https://wiki.macc.nyc/wiki/Category:Working_Groups">working groups</a>, and helps us support our comrades doing political work. Support cost often includes bail, other legal expenses, and medical expenses. Thank you for any support you can give!
+  One_time_support: One time support
+  Monthly_support: Monthly support
+  or_click_above: Or click “Donate” above and select “Make this a monthly donation.”
+  Pledge_to_bail_fund: Pledge to the Bail Fund
+  bail_fund_explanation: If you pledge to the Bail Fund, we'll only charge you card when/if we need it to bail someone out. You set the parameters! <a href="http://www.macclegalfund.org">Pledge here!</a>
+  donate_button: https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif
+  subscribe_button: https://www.paypalobjects.com/en_US/i/btn/btn_subscribe_LG.gif
+

@@ -4,3 +4,6 @@ global:
 about:
   About_us: testing
   About_us_blurb: testing, testing
+donate:
+  donate_button: https://www.paypalobjects.com/es_XC/i/btn/btn_donateCC_LG.gif
+  subscribe_button: https://www.paypalobjects.com/es_XC/i/btn/btn_subscribe_LG.gif
