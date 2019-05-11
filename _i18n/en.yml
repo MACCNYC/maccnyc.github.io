@@ -53,3 +53,15 @@ contact:
 signup:
   email_address: Email Address
   subscribe: Subscribe
+documents:
+  title: Core Documents
+  back: Back to Core Documents
+  money:
+    title: Money Management Policy
+    description: Guiding principles and policies around how MACC handles money.
+  safer_spaces:
+    title: Safer Spaces Policy
+    description: A Safer-spaces policy for MACC held spaces.
+  organizing:
+    title: Organizing Document
+    description: Core document describing how MACC organizes.

@@ -1,6 +1,8 @@
 ---
-title: header.pages.Documents
-permalink: /docs
+title: documents.title
+permalink: /docs/
+permalink_es: /documentos/
+namespace: documents
 layout: simple-page
 ---
 
@@ -8,8 +10,8 @@ layout: simple-page
 
 <div class="col-md-5  col-md-offset-3 center-justified">
   {% for document in documents %}
-    <h2><a href="{{ document.permalink }}">{{ document.title }}</a></h2>
-    <p>{{ document.description }}</p>
+    <h2><a href="{% if site.lang=='es' %}/es{% endif %}{{ document.permalink }}">{% t document.title %}</a></h2>
+    <p>{% t document.description %}</p>
   {% endfor %}
   </ul>
 </div>

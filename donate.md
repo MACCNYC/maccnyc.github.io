@@ -1,6 +1,8 @@
 ---
 title: donate.title
 permalink: "/donate"
+permalink_es: "/donar"
+namespace: donate
 layout: simple-page
 ---
 

@@ -21,11 +21,11 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div id="navbar-collapse">
               <ul class="nav navbar-nav navbar-right">
-                <li><a href="{{ '/join' | prepend: site.baseurl_root }}">{% t header.pages.Join %}</a></li>
-                <li><a href="{{ '/donate' | prepend: site.baseurl_root }}">{% t header.pages.Donate %}</a></li>
-                <li><a href="{{ '/blog' | prepend: site.baseurl_root }}">{% t header.pages.Dispatches %}</a></li>
-                <li><a href="{{ '/events' | prepend: site.baseurl_root }}">{% t header.pages.Events %}</a></li>
-                <li><a href="{{ '/docs' | prepend: site.baseurl_root }}">{% t header.pages.Documents %}</a></li>
+                <li><a href="{% tl join %}">{% t header.pages.Join %}</a></li>
+                <li><a href="{% tl donate %}">{% t header.pages.Donate %}</a></li>
+                <li><a href="{% tl blog %}">{% t header.pages.Dispatches %}</a></li>
+                <li><a href="{% tl events %}">{% t header.pages.Events %}</a></li>
+                <li><a href="{% tl documents %}">{% t header.pages.Documents %}</a></li>
                 <li><a href="{{ site.wikiurl }}">Wiki</a></li>
                 <li>
                   <a href="http://www.twitter.com/macc_nyc" alt="twitter">
