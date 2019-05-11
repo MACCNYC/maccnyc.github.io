@@ -1,5 +1,5 @@
 ---
-title: Support MACC
+title: donate.title
 permalink: "/donate"
 layout: simple-page
 ---

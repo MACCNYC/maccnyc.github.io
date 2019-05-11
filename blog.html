@@ -1,5 +1,5 @@
 ---
-title: Latest Dispatches
+title: blog.title
 permalink: "/blog/"
 layout: simple-page
 ---
@@ -15,7 +15,7 @@ layout: simple-page
     <hr />
   {% endfor %}
 
-  <h2>Archive</h2>
+  <h2>{% t blog.Archive %}</h2>
   <div class="list-group">
   {% for post in site.posts offset: 3 %}
       <a class="list-group-item list-group-item-action" href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.title }}</a>
