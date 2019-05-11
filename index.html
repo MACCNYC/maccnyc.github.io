@@ -5,40 +5,28 @@ layout: page
 ---
 
 <section id="global-header">
-  <img alt="MACC Logo" src="img/m4cc_web_TypographyLogo.svg"/>
+  <img alt="MACC Logo" src="{{ '/img/m4cc_web_TypographyLogo.svg' | prepend: site.baseurl_root }}"/>
 </section>
 
 <section>
   <div class="container">
     <div class="row">
       <div class="col-md-6">
-        <h1>About Us</h1>
-        <p>The Metropolitan Anarchist Coordinating Council (MACC) is an organization based on the guiding principles of horizontalism, anti-oppression, mutual aid, direct democracy, and direct action.
-          We seek to strengthen and support New York City’s anarchist movement through coordination of existing and emerging projects.
-          With the present atmosphere of hatred, bigotry and greed, we create an alternative, radical form of participatory politics.
-        </p>
-        <p>MACC is open to all anarchists.</p>
+        <h1>{% t about.About_us %}</h1>
+        <p>{% t about.About_us_blurb %}</p>
+        <p>{% t about.Open_to_all_anarchists %}</p>
       </div>
 
       <div class="col-md-6">
-        <h2>Get involved</h2>
+        <h2>{% t about.Get_involved %}</h2>
+        <p>{% t about.Get_involved_blurb %}</p>
+        <p><a href="/donate">{% t about.Donate_to_support %}</a></p>
 
+        <h2>{% t about.Stay_in_touch %}</h2>
+
+        <p>{% t about.Stay_in_touch_blurb %}</p>
         <p>
-          The best way to get involved in MACC is to attend a General Assembly.
-          Find out when the next assembly is <a href="/events">over on our calendar</a>.
-        </p>
-
-        <p><a href="/donate">Donate here</a> to support our projects.</p>
-
-        <h2>Stay in touch</h2>
-
-        <p>Want to hear what we're up to or get a reminder about the next General Assembly?</p>
-        <p>
-          Follow us on
-          <a href="https://www.facebook.com/MACCnyc/" alt="twitter">Facebook</a> or
-          <a href="http://www.twitter.com/macc_nyc" alt="twitter">Twitter</a>,
-          check out our <a href="{{ site.baseurl }}/blog">latest dispatches</a>, or
-          sign up for our mailing list:
+          {% t about.Follow_or_sign_up %}
         </p>
 
         {% include signup.html %}
@@ -47,12 +35,9 @@ layout: page
 
     <div class="row">
       <div class="col-md-12">
-        <h2>Format</h2>
-
-        <p>MACC's primary decision making body is the Organizing Assembly which currently operates on modified consensus. The Organizing Assembly is open to all participants in our monthly General Assemblies and in MACC working groups. However, with a “democracy of direct action” ethos, MACC is a coordinating (not mandating) body, ensuring our ability to address larger questions of strategy and narrative while protecting a plurality of voices and tactics. This means working groups are free to determine their own internal structure and pursue their own vital projects. In this way, we demonstrate a vision for a society in fundamental opposition to the brutal logic of contemporary capitalism. A society based on mutual aid, cooperation, and radical democracy.</p>
-        <p>
-          <a href="/docs">Read more in our Core Documents</a>
-        </p>
+        <h2>{% t about.Format %}</h2>
+        <p>{% t about.Format_blurb %}</p>
+        <p><a href="/docs">{% t about.Read_core_docs %}</a></p>
       </div>
     </div>
   </div>

@@ -1,0 +1,22 @@
+global:
+  title: MACC NYC
+  description: The Metropolitan Anarchist Coordinating Council (MACC) is an organization based on the guiding principles of horizontalism, anti-oppression, mutual aid, direct democracy, and direct action.
+about:
+  About_us: About us
+  About_us_blurb: >
+    The Metropolitan Anarchist Coordinating Council (MACC) is an organization based on the guiding principles of horizontalism, anti-oppression, mutual aid, direct democracy, and direct action. We seek to strengthen and support New York City’s anarchist movement through coordination of existing and emerging projects. With the present atmosphere of hatred, bigotry and greed, we create an alternative, radical form of participatory politics.
+  Open_to_all_anarchists: MACC is open to all anarchists.
+  Format: Format
+  Format_blurb: MACC's primary decision making body is the Organizing Assembly which currently operates on modified consensus. The Organizing Assembly is open to all participants in our monthly General Assemblies and in MACC working groups. However, with a “democracy of direct action” ethos, MACC is a coordinating (not mandating) body, ensuring our ability to address larger questions of strategy and narrative while protecting a plurality of voices and tactics. This means working groups are free to determine their own internal structure and pursue their own vital projects. In this way, we demonstrate a vision for a society in fundamental opposition to the brutal logic of contemporary capitalism. A society based on mutual aid, cooperation, and radical democracy.
+  Read_core_docs: Read more in our Core Documents
+  Get_involved: Get involved
+  Get_involved_blurb: The best way to get involved in MACC is to attend a General Assembly. Find out when the next assembly is <a href="/events">over on our calendar</a>.
+  Donate_to_support: Donate here to support our projects.
+  Stay_in_touch: Stay in touch
+  Stay_in_touch_blurb: Want to hear what we're up to or get a reminder about the next General Assembly?
+  Follow_or_sign_up: >
+    Follow us on
+    <a href="https://www.facebook.com/MACCnyc/" alt="twitter">Facebook</a> or
+    <a href="http://www.twitter.com/macc_nyc" alt="twitter">Twitter</a>,
+    check out our <a href="/blog">latest dispatches</a>, or
+    sign up for our mailing list.

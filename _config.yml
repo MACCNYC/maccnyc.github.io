@@ -12,6 +12,10 @@ collections:
   uploads:
     title: Uploads
     output: true
+plugins:
+  - jekyll-multiple-languages-plugin
+languages: ["en", "es"]
+exclude_from_localizations: ["js", "img", "css", "fonts"]
 exclude:
 - "/vendor/"
 - Gemfile

@@ -15,7 +15,7 @@
             <span class="icon-bar"></span>
             </button>
             <a class="navbar-brand" href="{{ site.baseurl }}/">
-              <img class="brand-img" src="{{ site.baseurl }}/img/logo.png" alt="Logo">
+              <img class="brand-img" src="{{ '/img/logo.png' | prepend: site.baseurl_root }}" alt="Logo">
             </a>
           </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -27,8 +27,16 @@
                 <li><a href="{{ site.baseurl }}/events">Events</a></li>
                 <li><a href="{{ site.baseurl }}/docs">Core Documents</a></li>
                 <li><a href="{{ site.wikiurl }}">Wiki</a></li>
-                <li><a href="http://www.twitter.com/macc_nyc" alt="twitter"><img height="20px" src="{{ site.baseurl }}/img/social/twitter-512.gif"></a></a></li>
-                <li><a href="https://www.facebook.com/MACCnyc/" alt="facebook"><img height="20px" src="{{ site.baseurl }}/img/social/fb.png"></a></a></li>
+                <li>
+                  <a href="http://www.twitter.com/macc_nyc" alt="twitter">
+                    <img height="20px" src="{{ '/img/social/twitter-512.gif'| prepend: site.baseurl_root }}">
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.facebook.com/MACCnyc/" alt="facebook">
+                    <img height="20px" src="{{ '/img/social/fb.png'| prepend: site.baseurl_root }}">
+                  </a>
+                </li>
               </ul>
             </div><!-- /.navbar-collapse -->
           </div><!-- /.container-fluid -->
