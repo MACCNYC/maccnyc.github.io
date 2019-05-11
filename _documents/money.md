@@ -2,7 +2,7 @@
 title: Money Management Policy
 permalink: "/money"
 description: Guiding principles and policies around how MACC handles money.
-page_order: 3
+page_order: 4
 layout: document
 ---
 

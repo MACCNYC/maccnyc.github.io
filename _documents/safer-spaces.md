@@ -2,7 +2,7 @@
 title: Safer Spaces Policy
 permalink: "/safer-spaces"
 description: A Safer-spaces policy for MACC held spaces.
-page_order: 2
+page_order: 3
 layout: document
 ---
 
