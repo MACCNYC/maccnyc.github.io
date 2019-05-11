@@ -20,3 +20,10 @@ about:
     <a href="http://www.twitter.com/macc_nyc" alt="twitter">Twitter</a>,
     check out our <a href="/blog">latest dispatches</a>, or
     sign up for our mailing list.
+header:
+  pages:
+    Join: Join
+    Donate: Donate
+    Dispatches: Dispatches
+    Events: Events
+    Documents: Documents
