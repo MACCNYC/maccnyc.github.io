@@ -9,7 +9,7 @@ Open the [_posts](_posts) folder.
 
 Click "Create a new file".
 
-Name the file `<year>-<month>-<day>-<title>.md`. For example, an assembly on August 21st 2017, would use `2017-08-21-general-assembly`.
+Name the file `yyyy-mm-dd-title.md`. For example, an assembly on August 21st 2017, would use `2017-08-21-general-assembly`.
 
 Paste this at the top of the file:
 ```
