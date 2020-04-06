@@ -5,7 +5,7 @@ layout: post
 author: MACC NYC
 ---
 
-###MUTUAL AID DISPATCHES
+### MUTUAL AID DISPATCHES
 
 It’s been hard to keep track of time since COVID-19 entered our radars, at different times, as a pandemic. Time is
 multiplying and extending and shortening all at once. It’s eclipsed by longer naps, shortened by the anxiety of waiting 
@@ -36,7 +36,7 @@ those who did the work before us to create the forms of living that are helping 
 If you’ve got examples that would be useful to cover, please send us a message on our FB page or Tweet at us @macc_nyc
 
 
-##Vancouver Area Network of Drug Users (VANDU) 
+## Vancouver Area Network of Drug Users (VANDU) 
 
 *VANDU is a group of users and former users who work to improve the lives of people who use drugs through user-based peer support and education. VANDU is committed to increasing the capacity of people who use drugs to live healthy, productive lives. VANDU is also committed to ensuring that drug users have a real voice in their community and in the creation of programs and policies designed to serve them.*
 
@@ -53,7 +53,7 @@ Emphasizing transparency so that people know exactly how they can be involved, h
 People who use drugs are the ones to define the participation of people who do not use drugs in the organization. [In other words, those most affected by, but also those most experienced with, the problems addressed by the organization decide how others can best work with them.)
 
 
-##Reclaiming Our Homes
+## Reclaiming Our Homes
 
 *"Well, we need to do something, and we should probably just start taking over these vacant homes.”* (Benito Flores)
 
@@ -74,7 +74,7 @@ The demands for self-isolation open up an opportunity to call for and defend hou
 More info: https://www.dissentmagazine.org/online_articles/reclaim-our-homes
 
 
-##Radical Organizing Around Outbreaks: The Young Lords and present-day needle exchanges
+## Radical Organizing Around Outbreaks: The Young Lords and present-day needle exchanges
 
 For the past couple years the term ‘epidemic’ has been applied to the drastic uptick in opioid use across the country. The infestation jargon may signify a motion away from blame-based conceptions of drug use - imagining dependency as something done upon a person, rather than brought about by defect or criminality - but treatment still tends towards moralization and othering. One of the most progressive efforts against this are needle exchanges, which provide free, unused needles, as well as other services like acupuncture, therapy, medicaid assistance and referral to detox clinics. The effect is a massive reduction in Hepatitis C and HIV transmission.
 
