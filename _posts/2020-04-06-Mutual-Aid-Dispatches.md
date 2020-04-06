@@ -1,6 +1,6 @@
 ---
 title: Mutual Aid Dispatches
-date: <2020>-<4>-<6>
+date: 2020-04-06
 layout: post
 author: MACC NYC
 ---
