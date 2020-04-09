@@ -37,8 +37,6 @@ If you’ve got examples that would be useful to cover, please send us a message
 
 ## Vancouver Area Network of Drug Users (VANDU) 
 
-![alt text](https://github.com/MACCNYC/maccnyc.github.io/blob/master/img/VANDU%202.jpg)
-
 *VANDU is a group of users and former users who work to improve the lives of people who use drugs through user-based peer support and education. VANDU is committed to increasing the capacity of people who use drugs to live healthy, productive lives. VANDU is also committed to ensuring that drug users have a real voice in their community and in the creation of programs and policies designed to serve them.*
 
 One of the reasons that VANDU seems like a great project for comparison is because of its location and population. Much like NYC, it’s witnessed massive and violent gentrification that has led to a skyrocketing unsheltered population. In addition, it’s a city with a large population of drug users. Amidst much of the language of “able bodied” and “healthy” people peppering volunteer projects right now, the composition of VANDU serves as an amazing reminder of the knowledge base and survival skills that people pushed outside of such rhetoric possess. 
