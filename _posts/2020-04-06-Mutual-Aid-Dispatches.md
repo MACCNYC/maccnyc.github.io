@@ -28,8 +28,7 @@ let’s take the time to understand from where we’ve received them.
 
 Towards that end, we’re interested in generating an ongoing and conversational “archive” of mutual aid practices and projects 
 that have been running some time, or projects that laid the foundation for things we’re picking up again today--in NYC or 
-elsewhere. How can we do a better job talking about and building projects now by understanding the concrete needs and locations
-that contextualized former mutual aid projects? What are the already existing projects that we should be joining? 
+elsewhere. How can we do a better job talking about and building projects now by understanding the concrete needs and locations that contextualized former mutual aid projects? What are the already existing projects that we should be joining? 
 As we get to know our neighbors and neighborhoods more intimately than ever before, let’s also work to build knowledge of 
 those who did the work before us to create the forms of living that are helping us to survive today.
 
@@ -46,24 +45,25 @@ The VANDU project is run and decisions are made entirely by people who are affec
 
 Some useful mutual aid principles we want to share from VANDU:
 
-“If researchers want to work with us they should really become allies of our movement.” [In other words, all knowledge and/or theory should come from participation and allyship.]
+“If researchers want to work with us they should really become allies of our movement.” In other words, all knowledge and/or theory should come from participation and allyship.
 
 Emphasizing transparency so that people know exactly how they can be involved, how to access any benefits of membership, how to move into leadership positions, and how to exercise their democratic rights as members.
 
-People who use drugs are the ones to define the participation of people who do not use drugs in the organization. [In other words, those most affected by, but also those most experienced with, the problems addressed by the organization decide how others can best work with them.)
+People who use drugs are the ones to define the participation of people who do not use drugs in the organization. In other words, those most affected by, but also those most experienced with, the problems addressed by the organization decide how others can best work with them.
 
 
 ## Reclaiming Our Homes
 
 *"Well, we need to do something, and we should probably just start taking over these vacant homes.”* (Benito Flores)
 
-Impacted by the housing crisis, and feeling even more urgency in the wake of the Coronavirus pandemic, we are reclaiming vacant houses owned by the state to fight for housing as a human right. We the Reclaimers are calling on the city and state to immediately use all vacant properties to house people. We need all levels of government to make a massive investment in public and social housing so that everyone has a home during this housing and public health crisis.
+*Impacted by the housing crisis, and feeling even more urgency in the wake of the Coronavirus pandemic, we are reclaiming vacant houses owned by the state to fight for housing as a human right. We the Reclaimers are calling on the city and state to immediately use all vacant properties to house people. We need all levels of government to make a massive investment in public and social housing so that everyone has a home during this housing and public health crisis.*
 
 As public health organizations are insisting on social distancing as one of the most powerful tools to manage the Coronavirus pandemic, there has been little to no acknowledgement that this tactic is currently impossible due to pre-existing housing needs. In a city like NYC, this is painfully obvious. In response to a need that no city or state government has yet taken seriously as a part of COVID-19, the Reclaiming Our Homes group launched a housing occupation in Los Angeles in early March.
 
 Reclaiming Our Homes was inspired by the previous housing occupation by the Moms 4 Housing group in Oakland, a group which successfully occupied a residence for two months and ultimately the right to keep it. The continuity between the Los Angeles and Oakland occupations shows that the crisis facing us today is not natural, but is part of the overlapping structure of the protection of private property at all costs. The occupations echo back to the wave of groups across the U.S. that began strategically occupying foreclosed homes in the wake of the 2008 crisis/ wealth transfer. Looking back to, and actively citing, the struggles that make it possible for us to work outside of capitalist exchange and state-controlled resources will be crucial to our ability to build long-lasting networks out of this crisis. 
 
 Some useful mutual aid principles we want to share from  Reclaiming Our Homes:
+
 Staying at home and social distancing will only truly be possible after strategic collective action is taken to house everyone
 Much of what is happening with the Coronavirus is not new--thus, we need to continue to rely on previous organizing strategies and tactics where possible.
 
@@ -86,7 +86,7 @@ Some useful mutual aid principals to take away from Junkie Communism, and the af
 
 Revolutionary projects should not be “based on the dignity of work, but on the unconditional value of our lives.” Rigid criteria surrounding value only perpetuates hierarchy.
 
-Harm reduction is a useful  framework in reconceptualizing our approach to helping others. 
+Harm reduction is a useful framework in reconceptualizing our approach to helping others. 
 
 Creating parallel models of care undermine the status quo of those sanctioned by the state.
 
