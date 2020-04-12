@@ -5,6 +5,8 @@ layout: post
 author: MACC NYC
 ---
 
+![alt text](https://github.com/MACCNYC/maccnyc.github.io/blob/master/img/MADmaccsmall%20smaller.png)
+
 ### MUTUAL AID DISPATCHES
 
 It’s been hard to keep track of time since COVID-19 entered our radars, at different times, as a pandemic. Time is
