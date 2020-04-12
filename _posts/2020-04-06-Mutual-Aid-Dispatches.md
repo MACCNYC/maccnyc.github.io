@@ -5,7 +5,7 @@ layout: post
 author: MACC NYC
 ---
 
-![alt text](img/MADmaccsmall smaller.png "Logo Title Text 1")
+![alt text](https://github.com/MACCNYC/maccnyc.github.io/blob/master/img/MADmaccsmall%20smaller.png "Logo Title Text 1")
 
 ### MUTUAL AID DISPATCHES
 
