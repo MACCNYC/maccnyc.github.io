@@ -4,6 +4,9 @@ date: 2020-04-06
 layout: post
 author: MACC NYC
 ---
+![alt text][logo]
+
+[logo]: https://github.com/MACCNYC/maccnyc.github.io/blob/master/img/MADmaccsmall%20smaller.jpg
 
 ### MUTUAL AID DISPATCHES
 
