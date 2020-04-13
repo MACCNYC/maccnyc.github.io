@@ -33,7 +33,7 @@ that have been running some time, or projects that laid the foundation for thing
 elsewhere. How can we do a better job talking about and building projects now by understanding the concrete needs and locations that contextualized former mutual aid projects? What are the already existing projects that we should be joining? 
 As we get to know our neighbors and neighborhoods more intimately than ever before, let’s also work to build knowledge of 
 those who did the work before us to create the forms of living that are helping us to survive today.
-
+ 
 If you’ve got examples that would be useful to cover, please send us a message on our FB page or Tweet at us @macc_nyc
 
 
