@@ -5,7 +5,8 @@ layout: post
 author: MACC NYC
 ---
 
-![](/img/MADmaccsmall%20smaller.png)
+![](/img/MADmaccwhiteSMALL.jpg)
+
 
 ### MUTUAL AID DISPATCHES
 
