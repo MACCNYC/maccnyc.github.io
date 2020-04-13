@@ -5,7 +5,7 @@ layout: post
 author: MACC NYC
 ---
 
-![](/img/MADmaccwhiteSMALL.jpg)
+![](/img/MADmaccsparksmallk.jpg)
 
 
 
