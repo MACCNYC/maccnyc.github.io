@@ -25,6 +25,6 @@
   }
 }
 
-.post img {
+.post img, .blog img {
  max-width: 100%;
 }
