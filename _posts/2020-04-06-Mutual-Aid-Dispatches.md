@@ -8,7 +8,6 @@ author: MACC NYC
 ![](/img/MADmaccwhiteSMALL.jpg)
 
 
-### MUTUAL AID DISPATCHES
 
 It’s been hard to keep track of time since COVID-19 entered our radars, at different times, as a pandemic. Time is
 multiplying and extending and shortening all at once. It’s eclipsed by longer naps, shortened by the anxiety of waiting 
