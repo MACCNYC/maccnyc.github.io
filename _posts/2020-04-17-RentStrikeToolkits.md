@@ -6,6 +6,9 @@ author: MACC NYC
 ---
 
 
+
+
+
 # Rent Strike and Tenant Council Toolkits: An Overview
 
 ### “Why and How to Go On Rent Strike” – Montreal Counter Info FAQ: 
