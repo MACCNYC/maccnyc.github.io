@@ -11,7 +11,7 @@ author: MACC NYC
 
 # Rent Strike and Tenant Council Toolkits: An Overview
 
-### “Why and How to Go On Rent Strike” – Montreal Counter Info FAQ: 
+#### “Why and How to Go On Rent Strike” – Montreal Counter Info FAQ: 
 
 Unlike most toolkits, this FAQ doesn’t assume that the reasons to go on rent strike will be obvious to you or to your 
 roommates, fellow tenants, or friends. An excellent resource to prepare yourself for the obvious questions we often forget
@@ -21,7 +21,7 @@ the government to institute a rent freeze), why it needs to be a collective dire
 look like. Additional resources like sample letters for landlords can be found at Montreal Counter Info.
 
 
-### NYC Democratic Socialists of America – Housing Working Group – Tenant Organizing Manual 
+#### NYC Democratic Socialists of America – Housing Working Group – Tenant Organizing Manual 
 
 A fantastically detailed, and well-designed (which can be important for skeptical audiences) manual oriented towards long 
 term housing organizing, not specifically designed for corona or rent strikes. The audience for this manual might be a 
@@ -32,7 +32,7 @@ launching a rent strike or to corona, the process it describes of forming a tena
 step for many in organizing any building for a rent strike action.
 
 
-### Autonomous Tenants’ Union (Chicago) – COVID-19 Tenant Organizing Toolkit
+#### Autonomous Tenants’ Union (Chicago) – COVID-19 Tenant Organizing Toolkit
 
 The Autonomous Tenants’ Union approaches housing from a bottom-up, libertarian socialist perspective in Chicago. Along with
 basic tips on forming a tenants’ council, this toolkit is especially suited towards crafting the strategy and tempo of 
@@ -43,7 +43,7 @@ specific building maintenance. Resources and templates, then, are landlord and t
 demands. Oriented towards forcing landlords to deal with tenants as a collective rather than as vulnerable individual renters
 and useful for building longer term structures beyond 2020 rent strikes.
 
-### TANC Pandemic Organizing Guide (Bay Area)
+#### TANC Pandemic Organizing Guide (Bay Area)
 
 The TANC Pandemic Organizing Guide was published by a Bay Area tenants union and thus is not NYC specific.It focuses on the
 how-tos of organizing your building into a tenant’s union, focusing on long-term neighbor solidarity rather than organizing
@@ -58,7 +58,7 @@ longer have a home.) The guide also takes a working-class perspective, defining 
 or die.” 
 
 
-### Housing Equality and Right to Council Rent Strike Toolkit (New York)
+#### Housing Equality and Right to Council Rent Strike Toolkit (New York)
 
 The Housing Justice for All and Right to Council rent strike guide is incredibly comprehensive. It provides a snapshot history 
 of rent strikes and tenants organizing in NYC from 1839 to the 1960s. This history emphasizes the particular demands over which
@@ -72,7 +72,7 @@ the toolkit provides definitions for technical and bureaucratic legal terminolog
 prove helpful in decoding it.
 
 
-### U.S. Rent Strike/General Strike Telegram
+#### U.S. Rent Strike/General Strike Telegram (https://t.me/s/rentstrike2020)
 
 The U.S. Rent Strike/General Strike Telegram is a constantly updating feed of memes, infographics, flyering materials and news
 stories about the nationwide movement toward a rent and general strike on May Day. It could be a great source to turn to for 
