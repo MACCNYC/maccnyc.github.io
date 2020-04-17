@@ -5,7 +5,6 @@ layout: post
 author: MACC NYC
 ---
 
-![](/img/MADmaccsparksmallk.jpg)
 
 
 
@@ -37,6 +36,7 @@ those who did the work before us to create the forms of living that are helping 
 If you’ve got examples that would be useful to cover, please send us a message on our FB page or Tweet at us @macc_nyc
 
 
+![](/img/MADmaccsparksmallk.jpg)
 
 
 ## Food Not Bombs
