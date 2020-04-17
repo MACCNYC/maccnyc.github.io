@@ -72,7 +72,7 @@ the toolkit provides definitions for technical and bureaucratic legal terminolog
 prove helpful in decoding it.
 
 
-#### U.S. Rent Strike/General Strike Telegram (https://t.me/s/rentstrike2020)
+#### U.S. Rent Strike/General Strike Telegram [https://t.me/s/rentstrike2020]
 
 The U.S. Rent Strike/General Strike Telegram is a constantly updating feed of memes, infographics, flyering materials and news
 stories about the nationwide movement toward a rent and general strike on May Day. It could be a great source to turn to for 
