@@ -1,5 +1,5 @@
 ---
-title: Mutual Aid Dispatches
+title: 
 date: 2020-04-06
 layout: post
 author: MACC NYC
@@ -35,6 +35,23 @@ As we get to know our neighbors and neighborhoods more intimately than ever befo
 those who did the work before us to create the forms of living that are helping us to survive today.
  
 If you’ve got examples that would be useful to cover, please send us a message on our FB page or Tweet at us @macc_nyc
+
+
+
+
+## Food Not Bombs
+
+When a billion people go hungry each day, how can we spend another dollar on war? Food Not Bombs is an all-volunteer movement that recovers food that would otherwise be discarded, and shares free vegan and vegetarian meals with the hungry in over 1,000 cities in 65 countries in protest to war, poverty, and destruction of the environment. We are not a charity but dedicated to taking nonviolent direct action. Our movement has no headquarters or positions of leadership and we use the process of consensus to make decisions. We also provide food and supplies to the survivors of natural disasters, and people participating in occupations, strikes, marches and other protests.
+
+As grocery stores empty out and food shortages loom, food-sharing projects like Food Not Bombs (FNB) take on new urgency. FNB volunteers collect food from bakeries, grocery stores, and restaurants, cook together, and share meals and groceries in public spaces with whomever comes. Volunteers also take part in nonviolent direct action to change the social structures that produce hunger. FNB-like initiatives have already appeared in restaurants that offer free meals to laid-off workers and in grocery-delivery networks. There’s an increasing need for flexible, mobile, horizontal approaches to food distribution. 
+
+Eight anti-nuclear activists formed the first FNB group on May 24, 1980 at the Occupation Attempt of the Seabrook Nuclear Power Station in Cambridge, MA. Their basic insight was that hunger is unnecessary in a country that spends millions on weapons of mass destruction. The San Francisco Police arrested FNB volunteers hundreds of times during the summer of 1989 to quell a 27-day occupation in support of the city’s homeless. The high-profile arrests in San Francisco spurred new chapters in most of the major cities of Canada and the US. The arrests ended when the 1989 Loma Prieta earthquake cut off power and gas and police discovered that the only meals available for them were provided by FNB. FNB has a history of providing aid in response to disasters: FNB volunteers were the first to provide food and help to 9/11 rescue workers, and were among the first to provide food and help to survivors of the Indian Ocean Tsunami and Hurricane Katrina. FNB’s historic role in disaster relief demonstrates that federal assistance cannot replace peer-to-peer aid. FNB has also provided meals to protesters, including at Camp Casey outside Bush’s ranch in Texas, at a 100-day occupation in Kiev during the Orange Revolution, and at a two-month Peace Camp on the West Bank in Palestine. 
+
+There are four FNB chapters in NYC. The LES branch last distributed food on April 5 in Tompkins Square Park, giving out 50-70 containers of cooked food, plus 17-20 bags of produce, before announcing hiatus in response to COVID-19. The FNB website issued special guidance to California branches in response to COVID, suggesting that they implement social distancing in their lines, invite public health nurses to meals, provide PPE to volunteers, and offer a laser thermometer and a foot-pumped handwashing station. 
+
+FNB follows three principles: each chapter serves only vegan or vegetarian food; they are independent, autonomous, and consensus-based; and they are dedicated to nonviolent social change. FNB teaches that emergency food-sharing efforts should also always address the structural causes of hunger and food shortages. Apolitical charity begets more apolitical charity. FNB sees food-sharing as just one part of the overthrow of food inequity. Today, the FNB movement shares food in nearly 1,000 communities in at least 65 countries. 
+
+
 
 
 ## Vancouver Area Network of Drug Users (VANDU) 
