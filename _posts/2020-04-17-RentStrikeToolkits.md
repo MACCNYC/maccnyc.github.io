@@ -11,6 +11,7 @@ author: MACC NYC
 
 # Rent Strike and Tenant Council Toolkits: An Overview
 
+
 #### “Why and How to Go On Rent Strike” – Montreal Counter Info FAQ: 
 
 Unlike most toolkits, this FAQ doesn’t assume that the reasons to go on rent strike will be obvious to you or to your 
@@ -19,6 +20,7 @@ to address like: “I can pay my bills, why participate?,” “Isn’t there go
 have costs to cover?” This FAQ will prepare you for discussions on the basic goals of a rent strike (in this case pressuring
 the government to institute a rent freeze), why it needs to be a collective direct action, and what the first steps might
 look like. Additional resources like sample letters for landlords can be found at Montreal Counter Info.
+
 
 
 #### NYC Democratic Socialists of America – Housing Working Group – Tenant Organizing Manual 
@@ -32,6 +34,7 @@ launching a rent strike or to corona, the process it describes of forming a tena
 step for many in organizing any building for a rent strike action.
 
 
+
 #### Autonomous Tenants’ Union (Chicago) – COVID-19 Tenant Organizing Toolkit
 
 The Autonomous Tenants’ Union approaches housing from a bottom-up, libertarian socialist perspective in Chicago. Along with
@@ -42,6 +45,8 @@ achieve a number of possible demands ranging from: rent freezes, to rent reducti
 specific building maintenance. Resources and templates, then, are landlord and tenant focused and tailored to these types of
 demands. Oriented towards forcing landlords to deal with tenants as a collective rather than as vulnerable individual renters
 and useful for building longer term structures beyond 2020 rent strikes.
+
+
 
 #### TANC Pandemic Organizing Guide (Bay Area)
 
@@ -58,6 +63,7 @@ longer have a home.) The guide also takes a working-class perspective, defining 
 or die.” 
 
 
+
 #### Housing Equality and Right to Council Rent Strike Toolkit (New York)
 
 The Housing Justice for All and Right to Council rent strike guide is incredibly comprehensive. It provides a snapshot history 
@@ -70,6 +76,7 @@ garnering public attention. Due to this focus, it has more information about the
 about legal logistics when planning for a rent strike than some other guides. The extensive glossary of terms at the end of 
 the toolkit provides definitions for technical and bureaucratic legal terminology often used in tenant legislation and would 
 prove helpful in decoding it.
+
 
 
 #### U.S. Rent Strike/General Strike Telegram [https://t.me/s/rentstrike2020]
