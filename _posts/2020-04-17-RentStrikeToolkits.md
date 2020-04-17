@@ -12,6 +12,7 @@ author: MACC NYC
 # Rent Strike and Tenant Council Toolkits: An Overview
 
 
+
 #### “Why and How to Go On Rent Strike” – Montreal Counter Info FAQ: 
 
 Unlike most toolkits, this FAQ doesn’t assume that the reasons to go on rent strike will be obvious to you or to your 
@@ -20,6 +21,7 @@ to address like: “I can pay my bills, why participate?,” “Isn’t there go
 have costs to cover?” This FAQ will prepare you for discussions on the basic goals of a rent strike (in this case pressuring
 the government to institute a rent freeze), why it needs to be a collective direct action, and what the first steps might
 look like. Additional resources like sample letters for landlords can be found at Montreal Counter Info.
+
 
 
 
@@ -35,6 +37,7 @@ step for many in organizing any building for a rent strike action.
 
 
 
+
 #### Autonomous Tenants’ Union (Chicago) – COVID-19 Tenant Organizing Toolkit
 
 The Autonomous Tenants’ Union approaches housing from a bottom-up, libertarian socialist perspective in Chicago. Along with
@@ -45,6 +48,7 @@ achieve a number of possible demands ranging from: rent freezes, to rent reducti
 specific building maintenance. Resources and templates, then, are landlord and tenant focused and tailored to these types of
 demands. Oriented towards forcing landlords to deal with tenants as a collective rather than as vulnerable individual renters
 and useful for building longer term structures beyond 2020 rent strikes.
+
 
 
 
@@ -64,6 +68,7 @@ or die.”
 
 
 
+
 #### Housing Equality and Right to Council Rent Strike Toolkit (New York)
 
 The Housing Justice for All and Right to Council rent strike guide is incredibly comprehensive. It provides a snapshot history 
@@ -79,7 +84,8 @@ prove helpful in decoding it.
 
 
 
-#### U.S. Rent Strike/General Strike Telegram [https://t.me/s/rentstrike2020]
+
+#### U.S. Rent Strike/General Strike Telegram
 
 The U.S. Rent Strike/General Strike Telegram is a constantly updating feed of memes, infographics, flyering materials and news
 stories about the nationwide movement toward a rent and general strike on May Day. It could be a great source to turn to for 
