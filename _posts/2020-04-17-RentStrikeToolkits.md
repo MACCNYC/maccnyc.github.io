@@ -13,7 +13,7 @@ author: MACC NYC
 
 
 
-#### “Why and How to Go On Rent Strike” – Montreal Counter Info FAQ: 
+#### <a href= "https://mtlcounterinfo.org/why-and-how-to-go-on-a-rent-strike/">“Why and How to Go On Rent Strike”</a> – Montreal Counter Info FAQ: 
 
 Unlike most toolkits, this FAQ doesn’t assume that the reasons to go on rent strike will be obvious to you or to your 
 roommates, fellow tenants, or friends. An excellent resource to prepare yourself for the obvious questions we often forget
