@@ -25,7 +25,7 @@ look like. Additional resources like sample letters for landlords can be found a
 
 
 
-#### NYC Democratic Socialists of America – Housing Working Group – Tenant Organizing Manual 
+#### <a href= "https://static1.squarespace.com/static/57a266d0f5e231c1eb0100fd/t/5a83dd2753450a84f6295812/1518591277741/nycdsa_tenant-organizing-manual.pdf?_ga=2.35854176.1199736188.1584980105-1922213206.1577726999">NYC Democratic Socialists of America</a> – Housing Working Group – Tenant Organizing Manual 
 
 A fantastically detailed, and well-designed (which can be important for skeptical audiences) manual oriented towards long 
 term housing organizing, not specifically designed for corona or rent strikes. The audience for this manual might be a 
@@ -38,7 +38,7 @@ step for many in organizing any building for a rent strike action.
 
 
 
-#### Autonomous Tenants’ Union (Chicago) – COVID-19 Tenant Organizing Toolkit
+#### <a href= "https://autonomoustenantsunion.org/covid19">Autonomous Tenants Union</a> (Chicago) – COVID-19 Tenant Organizing Toolkit
 
 The Autonomous Tenants’ Union approaches housing from a bottom-up, libertarian socialist perspective in Chicago. Along with
 basic tips on forming a tenants’ council, this toolkit is especially suited towards crafting the strategy and tempo of 
@@ -52,7 +52,7 @@ and useful for building longer term structures beyond 2020 rent strikes.
 
 
 
-#### TANC Pandemic Organizing Guide (Bay Area)
+#### <a href= "https://docs.google.com/document/d/1osMMHmOn3nyhx3Or4HzKtRaeaRAyEDwnQRAtVDgt47c/edit">TANC Pandemic Organizing Guide</a> (Bay Area)
 
 The TANC Pandemic Organizing Guide was published by a Bay Area tenants union and thus is not NYC specific.It focuses on the
 how-tos of organizing your building into a tenant’s union, focusing on long-term neighbor solidarity rather than organizing
@@ -69,7 +69,7 @@ or die.”
 
 
 
-#### Housing Equality and Right to Council Rent Strike Toolkit (New York)
+#### <a href= "https://d3n8a8pro7vhmx.cloudfront.net/righttocounselnyc/pages/100/attachments/original/1585739362/RTCNYC.COVID19.4.pdf?1585739362">Housing Equality and Right to Council Rent Strike Toolkit</a> (New York)
 
 The Housing Justice for All and Right to Council rent strike guide is incredibly comprehensive. It provides a snapshot history 
 of rent strikes and tenants organizing in NYC from 1839 to the 1960s. This history emphasizes the particular demands over which
@@ -85,7 +85,7 @@ prove helpful in decoding it.
 
 
 
-#### U.S. Rent Strike/General Strike Telegram
+#### <a href= "https://t.me/s/rentstrike2020">U.S. Rent Strike/General Strike Telegram</a>
 
 The U.S. Rent Strike/General Strike Telegram is a constantly updating feed of memes, infographics, flyering materials and news
 stories about the nationwide movement toward a rent and general strike on May Day. It could be a great source to turn to for 
