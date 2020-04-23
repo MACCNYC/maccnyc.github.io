@@ -2,7 +2,7 @@
 title: "Rent Strike and Tenant Council Toolkits: An Overview"
 date: 2020-04-17
 layout: post
-author: MACC NYC
+author: MIOP
 ---
 
 
