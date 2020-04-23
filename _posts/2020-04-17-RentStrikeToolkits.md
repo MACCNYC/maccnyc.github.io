@@ -6,13 +6,6 @@ author: MACC NYC
 ---
 
 
-
-
-
-# Rent Strike and Tenant Council Toolkits: An Overview
-
-
-
 #### <a href= "https://mtlcounterinfo.org/why-and-how-to-go-on-a-rent-strike/">“Why and How to Go On Rent Strike”</a> – Montreal Counter Info FAQ: 
 
 Unlike most toolkits, this FAQ doesn’t assume that the reasons to go on rent strike will be obvious to you or to your 
