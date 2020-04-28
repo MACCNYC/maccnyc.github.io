@@ -136,4 +136,3 @@ author: MIOP
 
 #### 39. <a href= "http://www.icarusfilms.com/if-but">Profit & Nothing But! Or Impolite Thoughts on the Class Struggle</a> (2001)
  – more “arthouse” documentary on globalization and capitalism’s impact on the poor of the world.
-
