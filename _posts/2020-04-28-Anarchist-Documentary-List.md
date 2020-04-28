@@ -7,6 +7,7 @@ author: MIOP
 
 #### Rojava/Democratic Confederalism/Kurdish Freedom Movement
 
+
 #### 1. <a href= "https://www.youtube.com/watch?v=2fipJAwje68">Rozava: The Country of Two Rivers</a>
 - Rojava doc made by Rojava Film Commune focusing on “civil side” of Revolution
 
@@ -36,6 +37,7 @@ author: MIOP
 
 
 #### Spanish Civil War
+
 
 #### 10. <a href= "https://sub.media/video/an-anarchists-story-the-life-of-ethel-macdonald/">An Anarchist's Story</a>(2007) 
 – Documentary on Ethel Macdonald. Scottish anarchist best known for being a broadcaster during the Spanish Civil War.
@@ -82,6 +84,7 @@ author: MIOP
 
 #### Zapatismo/Zapatista Movement
 
+
 #### 24. <a href= "https://sub.media/video/an-anarchists-story-the-life-of-ethel-macdonald/">The Silence of the Zapatistas</a>(2001) 
 – Documentary on Ethel Macdonald. Scottish anarchist best known for being a broadcaster during the Spanish Civil War.
 
@@ -102,6 +105,7 @@ author: MIOP
 
 
 #### Biographical Docs not in Previous Categories
+
 
 #### 30. <a href= "https://www.youtube.com/watch?v=6atC5oSM9jY"> Néstor Makhno, Paysan D'Ukraine</a>(1996) 
 – documentary on Nestor Makhno’s life, Ukrainian anarchist who fought during the Russian Revolution for an anarchist Ukraine. French language only (as far as I know).
@@ -129,6 +133,7 @@ author: MIOP
 
 
 #### Globalization – Effects of Capitalism – Macro-documentaries
+
 
 #### 38. <a href= "https://www.youtube.com/watch?v=SezyUk_UGqU">Terrorists: The Kids They Sentenced</a> (2003)
  – documentary on anti-globalization protests in Sweden in 2001 and the extreme repression of activists.
