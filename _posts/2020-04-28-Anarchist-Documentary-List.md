@@ -5,7 +5,7 @@ layout: post
 author: MIOP
 ---
 
-####Rojava/Democratic Confederalism/Kurdish Freedom Movement
+#### Rojava/Democratic Confederalism/Kurdish Freedom Movement
 
 #### 1. <a href= "https://www.youtube.com/watch?v=2fipJAwje68">Rozava: The Country of Two Rivers</a>
 - Rojava doc made by Rojava Film Commune focusing on “civil side” of Revolution
@@ -33,11 +33,9 @@ author: MIOP
 
 #### 9. <a href= "https://www.amazon.com/Gul%C3%AEstan-Land-Roses-Zayn%C3%AA-Akyol/dp/B07FPXWD8N">Gulistan, Land of Roses</a> (2016)
  – Another PKK documentary (Gulistan is another name for Kurdistan) focusing on the women’s movement aspect and female guerrillas.
- 
 
 
-####Spanish Civil War
-
+#### Spanish Civil War
 
 #### 10. <a href= "https://sub.media/video/an-anarchists-story-the-life-of-ethel-macdonald/">An Anarchist's Story</a>(2007) 
 – Documentary on Ethel Macdonald. Scottish anarchist best known for being a broadcaster during the Spanish Civil War.
@@ -81,7 +79,8 @@ author: MIOP
 #### 23. <a href= "https://mubi.com/films/el-sopar">El Sopar</a>(1974) 
 – unusual documentary. Films a dinner conversation between five former political prisoners under the Franco regime. Spanish Civil War and Spanish left.
 
-####Zapatismo/Zapatista Movement
+
+#### Zapatismo/Zapatista Movement
 
 #### 24. <a href= "https://sub.media/video/an-anarchists-story-the-life-of-ethel-macdonald/">The Silence of the Zapatistas</a>(2001) 
 – Documentary on Ethel Macdonald. Scottish anarchist best known for being a broadcaster during the Spanish Civil War.
@@ -100,6 +99,7 @@ author: MIOP
  
 #### 29. <a href= "http://www.bullfrogfilms.com/catalog/30fr.html">30 Frames a Second: The WTO in Seattle</a>(2000) 
 – not necessarily a pro-anarchist documentary, a journalist frames his own experiences throughout the demonstrations and crackdown.
+
 
 #### Biographical Docs not in Previous Categories
 
@@ -128,8 +128,7 @@ author: MIOP
  – Documentary on former militant and theorist of (highly uncredited anarchist influenced) “autonomous Marxism”
 
 
-####Globalization – Effects of Capitalism – Macro-documentaries
-
+#### Globalization – Effects of Capitalism – Macro-documentaries
 
 #### 38. <a href= "https://www.youtube.com/watch?v=SezyUk_UGqU">Terrorists: The Kids They Sentenced</a> (2003)
  – documentary on anti-globalization protests in Sweden in 2001 and the extreme repression of activists.
