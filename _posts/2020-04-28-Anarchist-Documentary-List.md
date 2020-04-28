@@ -121,19 +121,19 @@ author: MIOP
 #### 35. <a href= "https://www.amazon.com/Cell-Angela-Melitopoulos/dp/8496540898">The Cell</a> (2008)
  – interview collection documentary with Antonio Negri (named for his “cell” – as he was a long time political prisoner while actively collaborating with Michael Hardt).
  
- #### 36. <a href= "https://www.youtube.com/watch?v=OdG6lq2shiU">Sacco and Vanzetti</a> (2006)
+#### 36. <a href= "https://www.youtube.com/watch?v=OdG6lq2shiU">Sacco and Vanzetti</a> (2006)
 – documentary on the trial and execution of two Italian-American anarchists, Sacco and Vanzetti. Was a worldwide cause and their innocence or guilt is still debated today (for those who think it’s relevant).
 
- #### 37. <a href= "https://archive.org/details/AntonioNegri-ARevoltThatNeverEnds">Antonio Negri: A Revolt That Never Dies</a> (2005)
+#### 37. <a href= "https://archive.org/details/AntonioNegri-ARevoltThatNeverEnds">Antonio Negri: A Revolt That Never Dies</a> (2005)
  – Documentary on former militant and theorist of (highly uncredited anarchist influenced) “autonomous Marxism”
 
 
 ####Globalization – Effects of Capitalism – Macro-documentaries
 
 
- #### 38. <a href= "https://www.youtube.com/watch?v=SezyUk_UGqU">Terrorists: The Kids They Sentenced</a> (2003)
+#### 38. <a href= "https://www.youtube.com/watch?v=SezyUk_UGqU">Terrorists: The Kids They Sentenced</a> (2003)
  – documentary on anti-globalization protests in Sweden in 2001 and the extreme repression of activists.
 
- #### 39. <a href= "http://www.icarusfilms.com/if-but">Profit & Nothing But! Or Impolite Thoughts on the Class Struggle</a> (2001)
+#### 39. <a href= "http://www.icarusfilms.com/if-but">Profit & Nothing But! Or Impolite Thoughts on the Class Struggle</a> (2001)
  – more “arthouse” documentary on globalization and capitalism’s impact on the poor of the world.
 
