@@ -4,12 +4,11 @@ date: 2020-04-27
 layout: post
 author: MIOP
 ---
+<br>
 
 #### Rojava/Democratic Confederalism/Kurdish Freedom Movement
 <br>
 <br>
-
-
 #### 1. <a href= "https://www.youtube.com/watch?v=2fipJAwje68">Rozava: The Country of Two Rivers</a>
 – Rojava doc made by Rojava Film Commune focusing on “civil side” of Revolution
 <br>
