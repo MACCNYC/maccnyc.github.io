@@ -2,7 +2,7 @@
 title: Mutual Aid Dispatch #3
 date: 2020-05-07
 layout: post
-author: MACC NYC
+author: MIOP
 ---
 
 #### Mutual Aid Dispatch #3: Occupy Sandy
