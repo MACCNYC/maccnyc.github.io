@@ -9,6 +9,7 @@ author: MACC NYC
 
 
 
+
 Now is a great time to revisit Occupy Sandy, an example of grassroots, horizontal organizing that stepped in when government organizations like FEMA and NYCHA were stumbling. The ad-hoc effort came about from people who were previously involved in Occupy Wall Street, and grew into a coordinated system that deployed hot meals and supplies with a force of over 60,000 volunteers. 
 
 Following Hurricane Sandy, there was a varied reaction across state entities. Public-facing officials made use of their extended screen time to feign efficacy and across-the-aisle cooperation, often overplaying the resiliency of their region. (Sound familiar?) FEMA, although also administering on-the-ground aid, largely focused on monetary loans (with varying success). The MTA reistated service quickly, while NYCHA left residents stranded in unsafe conditions. Meanwhile, other members of government were comfortable taking a back seat while Occupy Sandy provided aid in hardest-hit communities, sometimes providing the supplies for OS to distribute. Along the way, the Department of Homeland Security was keeping tabs on OS, culminating in an exhaustive report that can teach us a lot about how the state exists alongside disaster communities.
