@@ -5,7 +5,7 @@ layout: post
 author: MACC NYC
 ---
 
-##### Mutual Aid Dispatch #3: Occupy Sandy
+#### Mutual Aid Dispatch #3: Occupy Sandy
 
 
 
