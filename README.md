@@ -15,7 +15,7 @@ Paste this at the top of the file:
 ```
 ---
 title:
-date:
+date: yyyy-mm-dd
 layout: post
 author: MACC NYC
 ---
@@ -23,7 +23,7 @@ author: MACC NYC
 Post content here!
 ```
 
-Fill in the date and title. The date should be in the same format as the file name, `<year>-<month>-<day>`.
+Fill in the date and title. The date should be in the same format as the file name. For example `2020-06-19`.
 
 Replace `Post content here!` with your post! You can just put in plain text, or for fancier formatting, check out [Markdown docs](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
