@@ -15,6 +15,9 @@ group’s contribution to <a href= "https://publicseminar.org/2020/05/anarchafem
 
 ## **Anarchafeminsm and Abolition**
 
+
+
+
 Anarchafeminism means abolition of the police and prisons. As anarchafeminists, we recognize that the prison-industrial 
 complex is a project that extends beyond physical walls and permeates all of society. This antiblack, ableist, and gender-
 normative project maintains the sovereign state, and the sovereign sex. It upholds the dangerous view that a neutral arbiter
