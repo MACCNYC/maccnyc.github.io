@@ -10,7 +10,7 @@ author: MACC
 In the spirit of abolition and building a better world, we honor #Juneteenth today with the MACC Anarchist Feminist working
 group’s contribution to <a href= "https://publicseminar.org/2020/05/anarchafeminist-manifesto-1-0/?fbclid=IwAR13iwT9A3pMfrZTrrX9EWoxcwMHVtfr7lhimAGek1nmWOWTrF-ymw7IwZg">Public Seminar anarchafeminist manifesto</a>.
 
-## H2 **Anarchafeminsm and Abolition**
+## **Anarchafeminsm and Abolition**
 
 Anarchafeminism means abolition of the police and prisons. As anarchafeminists, we recognize that the prison-industrial 
 complex is a project that extends beyond physical walls and permeates all of society. This antiblack, ableist, and gender-
