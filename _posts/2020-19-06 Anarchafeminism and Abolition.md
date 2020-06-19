@@ -1,6 +1,6 @@
 ---
 title: Anarchafeminism and Abolition
-date: <2020>-<6>-<19>
+date: 2020-06-19
 layout: post
 author: MACC
 ---
