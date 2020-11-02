@@ -1,47 +1,29 @@
 ---
-title: Safer Spaces Policy
+title: Safer Spaces Agreement
 permalink: "/safer-spaces"
-description: A Safer-spaces policy for MACC held spaces.
+description: A Safer-spaces agreement for MACC-held spaces.
 page_order: 3
 layout: document
 ---
 
 [Back to Core Documents](/docs)
 
-# MACC Safer Spaces Policy
+# MACC Safer Spaces Agreement
 
-This policy intends to be a positive, pro-active, preventative step towards making our community
-spaces safer. We use the word ‘safer’ to acknowledge that no space can be entirely safe for everyone
-and not everyone experiences spaces in the same way. This policy is not about policing others – it is
-about people monitoring themselves.
+This statement intends to be a positive, proactive, preventative step towards making our community spaces safer. We use the word ‘safer’ to acknowledge that no space can be entirely safe for everyone and not everyone experiences spaces in the same way. This agreement is not about monitoring others – it is about people monitoring themselves. We agree to contribute to the aims of MACC's Safer Spaces before entering MACC meetings and events.
 
-We have this safer spaces policy because we don’t live in a safe world. We live in a white
-supremacist, patriarchal capitalist society, in a city that is stolen from Indigenous people. This
-means that anyone who benefits from this privilege has more power over those that do not. Those
-who benefit from this privilege must be aware of how much space they are taking up, regardless of
-intent. MACC aims to create and perpetuate spaces that are safer than the outside world. We are an
-organization that is radical, accessible, and which aims to be a safer space for indigenous,
-not-white, mixed race, migrant, queer, trans, intersex, femme, butch, sex-working, disabled,
-non-neurotypical or otherwise marginalized people.
+We have this safer spaces agreement because we don’t live in a safe world. We live in a white supremacist, patriarchal, capitalist society, on land stolen from Indigenous people. This means that anyone who benefits from this privilege has more power over those that do not. Those who benefit from privileges of whiteness, patriarchy, and institutional power must be aware of how much space they are taking up, regardless of intent, and direct their dominant social positions in harm-reductive ways that do not seek to control other bodies or behaviors.
 
-MACC will not tolerate rape, sexual assault, any other form of violence, sexual harassment, creepy,
-predatory and/or sleazy behavior, racism, ageism, sexism, misogyny, homophobia, queerphobia,
-transphobia, transmisogyny, whorephobia, ableism, classism, sizeism, sex-negativity, cultural
-appropriation, or any other behavior or language that may perpetuate oppression.
+MACC aims to create and perpetuate spaces that are safer than the outside world. We are an organization that is radical, accessible, and which aims to be a safer space for indigenous, not-white, mixed race, migrant, queer, trans, intersex, femme, butch, sex-working, disabled, formerly incarcerated, non-neurotypical, or otherwise marginalized people.
 
-These listed behaviors should be understood and assessed with a critical understanding of power,
-privilege, and societal and circumstantial hierarchies. Behaviors listed are not being equated, and
-even two infractions of the same type could have very different fair resolutions. These rules are to
-protect comrades and not our oppressors, interactions with whom should be considered
-self-defense.
+MACC will not tolerate rape, sexual assault, any other form of violence, sexual harassment, creepy, predatory and/or sleazy behavior, racism, ageism, sexism, misogyny, homophobia, queerphobia, transphobia, transmisogyny, whorephobia, ableism, classism, sizeism, sex-negativity, cultural appropriation, or any other behavior or language that may perpetuate oppression.
 
-This policy applies to all attendees of MACC-hosted events, meetings, online spaces, publications or
-communications as well as at all times between members (both online and in person). All
-participants in MACC will aspire to act in accordance with this policy in their relations with comrades
-(both members and non-members) and are expected to abide by and be held accountable to this as
-members of MACC.
+MACC vehemently opposes the protection and promotion of white supremacy, patriarchy and nationalism carried out by state actors. We acknowledge that the police force and federal agents pose threats to the safety of one another and our spaces. Therefore, we do
+not condone any individuals with professional affiliations to these violent state institutions being a part of our organization. They are not welcome in any MACC event, space, or meeting.
 
-We define the following as abusive behaviours which are not tolerated:
+These listed behaviors should be understood and assessed with a critical understanding of power, privilege, and societal and circumstantial hierarchies. Behaviors listed are not being equated, and even two infractions of the same type could have very different fair resolutions. These rules are to protect comrades and not our oppressors, interactions with whom should be considered self-defense.
+
+This agreement applies to all attendees of MACC-hosted events, meetings, online spaces, publications or communications as well as at all times between members (both online and in person). All participants in MACC will aspire to act in accordance with this statement in their relations with comrades (both members and non-members) and are expected to abide by and be held accountable to this as members of MACC. We define the following as abusive behaviors which are not tolerated:
 
 ## Physical abuse
 1. Violence and threat of violence: A deliberate action that is likely to cause somebody physical pain, or the threat of such action, made verbally or implied physically.
@@ -121,4 +103,3 @@ reasons.
    writing. However, always try to always keep it generous and constructive, and if you feel that you are
    being antagonised, suggest a different format for the discussion (e.g. private correspondence or a
    meeting)._
-
