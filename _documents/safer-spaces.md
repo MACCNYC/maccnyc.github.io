@@ -23,7 +23,9 @@ not condone any individuals with professional affiliations to these violent stat
 
 These listed behaviors should be understood and assessed with a critical understanding of power, privilege, and societal and circumstantial hierarchies. Behaviors listed are not being equated, and even two infractions of the same type could have very different fair resolutions. These rules are to protect comrades and not our oppressors, interactions with whom should be considered self-defense.
 
-This agreement applies to all attendees of MACC-hosted events, meetings, online spaces, publications or communications as well as at all times between members (both online and in person). All participants in MACC will aspire to act in accordance with this statement in their relations with comrades (both members and non-members) and are expected to abide by and be held accountable to this as members of MACC. We define the following as abusive behaviors which are not tolerated:
+This agreement applies to all attendees of MACC-hosted events, meetings, online spaces, publications or communications as well as at all times between members (both online and in person). All participants in MACC will aspire to act in accordance with this statement in their relations with comrades (both members and non-members) and are expected to abide by and be held accountable to this as members of MACC.
+
+We define the following as abusive behaviors which are not tolerated:
 
 ## Physical abuse
 1. Violence and threat of violence: A deliberate action that is likely to cause somebody physical pain, or the threat of such action, made verbally or implied physically.
