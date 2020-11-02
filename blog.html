@@ -4,7 +4,7 @@ permalink: "/blog/"
 layout: simple-page
 ---
 
-<div class="col-md-8 col-md-offset-2">
+<div class="col-md-8 col-md-offset-2 blog">
   {% for post in site.posts limit: 3 %}
     <h2>
       <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>

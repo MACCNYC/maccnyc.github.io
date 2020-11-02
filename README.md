@@ -9,13 +9,13 @@ Open the [_posts](_posts) folder.
 
 Click "Create a new file".
 
-Name the file `<year>-<month>-<day>-<title>.md`. For example, an assembly on August 21st 2017, would use `2017-08-21-general-assembly`.
+Name the file `yyyy-mm-dd-title.md`. For example, an assembly on August 21st 2017, would use `2017-08-21-general-assembly`.
 
 Paste this at the top of the file:
 ```
 ---
 title:
-date:
+date: yyyy-mm-dd
 layout: post
 author: MACC NYC
 ---
@@ -23,7 +23,7 @@ author: MACC NYC
 Post content here!
 ```
 
-Fill in the date and title. The date should be in the same format as the file name, `<year>-<month>-<day>`.
+Fill in the date and title. The date should be in the same format as the file name. For example `2020-06-19`.
 
 Replace `Post content here!` with your post! You can just put in plain text, or for fancier formatting, check out [Markdown docs](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 

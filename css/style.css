@@ -24,3 +24,7 @@
     display: block;
   }
 }
+
+.post img, .blog img {
+ max-width: 100%;
+}
