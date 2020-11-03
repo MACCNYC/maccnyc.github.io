@@ -5,6 +5,8 @@ layout: post
 author: MACC
 ---
 
+## **An Anarchist Call for Post-election Mobilization: A Statement from the Metropolitan Anarchist Coordinating Council (MACC NYC)**
+
 For months now, President Donald Trump and his followers, including both uniformed and civilian white supremacists, right-wing terrorist organizations, and civil war boosters, have been threatening to carry out a dictatorial coup, either through use of Republican-run courts, or through violence in the streets. This would discredit the national elections and end even the limited democracy the U.S. currently enjoys. What will actually happen we do not yet know; the majority of the population is presently against this, seemingly including much of the ruling rich and the establishment. But any such attempt will need to be stopped with direct action. Hoping things turn out for the best is not enough.
 
 We cannot trust the Democrats, or the rest of the ruling elite, to defend democracy and freedom. They have supported all longstanding limitations on true democracy in the United States: the Electoral College, the unrepresentative Senate, the gerrymandering of congressional districts, private funding of all election campaigns, judges appointed for life, and so on. Voter suppression is rampant, particularly in non-white communities. Native American communities face the double injustice of having their sovereignty trampled as well as being systematically disenfranchised in U.S. elections. We live in a capitalist economy in which a tiny few have power over hundreds of millions. All the Democrats and the professional “resistance” know is process, procedure, and institutions - and they will no doubt naively seek refuge in these state apparatus even as the threat of fascism is upon us.
