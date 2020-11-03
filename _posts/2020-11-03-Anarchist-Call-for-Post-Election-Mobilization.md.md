@@ -1,6 +1,6 @@
 ---
 title: An Anarchist Call for Post-election Mobilization
-date: 2020-03-11
+date: 2020-11-03
 layout: post
 author: MACC
 ---
