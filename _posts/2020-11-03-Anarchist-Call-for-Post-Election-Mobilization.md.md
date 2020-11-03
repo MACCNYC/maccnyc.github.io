@@ -1,5 +1,5 @@
 ---
-title: An Anarchist Call for Post-election Mobilization: Statement from MACC NYC
+title: An Anarchist Call for Post-election Mobilization
 date: 2020-03-11
 layout: post
 author: MACC
