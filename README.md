@@ -28,3 +28,4 @@ Fill in the date and title. The date should be in the same format as the file na
 Replace `Post content here!` with your post! You can just put in plain text, or for fancier formatting, check out [Markdown docs](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 At the bottom click "Commit new file" and your post will go live in a few minutes!
+ 
