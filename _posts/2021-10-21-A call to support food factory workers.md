@@ -7,7 +7,7 @@ author: MACC NYC
 
 At the September General Assembly, we received a special invitation: to join a community-labor coalition committed to supporting the campaign to unionize a food factory in NYC. Supported by Brandworkers, an organization of food factory workers of color building a solidarity union with the International Workers of the World (IWW) in NYC, they soon hope to launch a public campaign. But since the campaign is presently undercover, one of the workers, who we shall only identify as A., addressed the assembly, along with Gabriel Morales of Brandworkers, to lay out the cause:
 
-## GABRIEL:
+## Opening Comments from Gabriel Morales at Brandworkers:
 
 I've been a member of MACC for many years now. Brandworkers is a membership organization of food factory workers organizing with the IWW. Based in Long Island City, we have a unique approach to workplace organizing, to unlock the potential of local food organizing. We have members in a number of places, recovering millions of dollars in wages, defining best practices in the food factory industry, and turning the tide against a food system that is HYPER-exploitative. The US food system has its roots in slavery, imperialism, neoliberal deals. Workers are predominantly contending with extreme hardship on the job: death on the job, women workers are underrepresented in pay and power, overrepresented in terms of sexual violence, assault and harassment. Workers face staggering obstacles to forming a union.
 
@@ -15,7 +15,7 @@ Labor unions have had great wins in the last few years, but only 6.4% of workers
 
 14 years ago, I was a young anarchist and hotel worker, really pulled by the philosophy of anarchism, but not grounded in anything. It's only in union organizing that I found what I actually believed.
 
-## A___ (a worker in the undercover worker-led organizing campaign)
+## Testimony of an undercover worker in a NYC food factory, A___
 
 Thank you everybody, I would like to let everyone know my name is A__ Thank you, MACC, for this invitation. I'm going to tell you a little of my story.
 
