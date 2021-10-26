@@ -1,4 +1,4 @@
-GEM
+GEM 
   remote: https://rubygems.org/
   specs:
     activesupport (4.2.10)
@@ -7,7 +7,7 @@ GEM
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
     addressable (2.5.2)
-      public_suffix (>= 2.0.2, < 4.0)
+      public_suffix (>= 2.8.0, < 4.0)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
