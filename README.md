@@ -1,7 +1,7 @@
 # maccnyc.github.io
 [Homepage for Metropolitan Anarchist Coordinating Council](http://macc.nyc/)
 
-After making a change, always check out the [live site](http://macc.nyc/) a few minutes later to make sure it's working! If you broke your page (or the whole site 😱), don't fret, it's easy to fix up. Get in touch with someone from the comms or tech groups and we'll jump on it.
+After making a change, always check out the [live site](http://macc.nyc/) a few minutes later to make sure it's working! If you broke your page (or the whole site 😱), don't fret, it's easy to fix up. Get in touch with someone from the Comms group and we'll jump on it.
 
 # Create a new post
 
