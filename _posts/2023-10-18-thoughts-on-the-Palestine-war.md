@@ -21,6 +21,6 @@ empire applied 22 years ago, and everyone is lapping it up and slow walking us t
 
 Palestinians, Jews, Koreans, Vietnamese, Iraqis, Yemenis, Argentinians, Venezualians, Colombians, Mexicans and all people of every land, love, rage and solidarity. 
 With the people always and never with the warring city-states that fracture sisters and brothers against each other. The seas are rising, the people are rising, 
-and one day we will all gaze at the same horizon together.
+and one day we will all gaze at the same horizon together. 
 
 Adisorn of The Hills
