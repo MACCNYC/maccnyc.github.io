@@ -23,4 +23,4 @@ Palestinians, Jews, Koreans, Vietnamese, Iraqis, Yemenis, Argentinians, Venezual
 With the people always and never with the warring city-states that fracture sisters and brothers against each other. The seas are rising, the people are rising, 
 and one day we will all gaze at the same horizon together.
 
-                                                                                                                    Adisorn of The Hills
+Adisorn of The Hills
