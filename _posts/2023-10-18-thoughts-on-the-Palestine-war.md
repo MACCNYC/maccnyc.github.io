@@ -1,8 +1,8 @@
 ---
-title: Thoughts on the Palestine War
+title: Thoughts on the Palestine War - 2023
 date: 2023-10-18
 layout: post
-author: MACC NYC
+author: Adisorn of The Hills
 ---
 
 It feels like 9/11 again. New conflicts, old arguments and familiar scapegoats. And in the sense that the western world at large has 
