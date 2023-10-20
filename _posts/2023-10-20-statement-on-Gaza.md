@@ -1,5 +1,5 @@
 ---
-title: A Call to Support Food Factory Workers
+title: Stop the Genocide and Free Palestine
 date: 2021-10-21
 layout: post
 author: MACC NYC
