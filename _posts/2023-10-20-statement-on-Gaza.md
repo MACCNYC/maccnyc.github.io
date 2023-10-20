@@ -1,6 +1,6 @@
 ---
 title: Stop the Genocide and Free Palestine
-date: 2021-10-21
+date: 2023-10-20
 layout: post
 author: MACC NYC
 ---
