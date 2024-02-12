@@ -33,9 +33,9 @@ This includes, but is not limited to,
 the structure of MACC itself; the creation of new projects; ongoing projects undertaken by MACC or its constituent working groups; management of resources; media and community relations or representation; principles, vision and strategy; community agreements; Relationship to cultural, social, political, and economic organizations; and framing of statements made in its name.
 These types of decisions are made at the Organizing Assembly.
 
-### MACC General Assembly
+### MACC Care Assembly
 
-The general assembly is for any individual who identifies as an anarchist or is interested in learning more about anarchism.
+The care assembly is for any individual who identifies as an anarchist or is interested in learning more about anarchism.
 The purpose of the assembly is to generate and coordinate on citywide statements or actions for the anarchist movement.
 
 ### MACC Organizing Assembly
@@ -47,7 +47,7 @@ The Organizing Assembly will reportback back at the GA and will share minutes fr
 ### MACC Working Groups
 
 The working groups are engaged in concrete tasks around building the MACC organization and the anarchist movements in NYC.
-They reportback to the general assembly.
+They reportback to the care assembly.
 New working groups are encouraged to form!
 
 ## Principles

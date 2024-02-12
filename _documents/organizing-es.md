@@ -46,24 +46,24 @@ comunicación, comunidades o de representación; los principios, la visión
 y la estrategia; los acuerdos comunitarios; las relaciones con
 organizaciones culturales, sociales, políticas y económicas; y la
 formulación de comunicados hechos en su nombre. Estas decisiones se
-toman en la Asamblea General.
+toman en la Asamblea de Cuidados.
 
-### Asamblea General del MACC
+### Asamblea de Cuidados del MACC
 
-La Asamblea General está abierta a cualquier persona que se identifique
+La Asamblea de Cuidados está abierta a cualquier persona que se identifique
 como anarquista o que esté interesado en aprender más acerca del
-anarquismo. La función de la Asamblea General es la generación de
+anarquismo. La función de la Asamblea de Cuidados es la generación de
 comunicados y acciones del movimiento anarquista con amplio alcanze en
 toda la ciudad.
 
 ### Asamblea Organizativa del MACC
 
 La Asamblea Organizativa se lleva a cabo mensualmente. Cualquier
-persona que haya atendido una Asamblea General puede atender y
+persona que haya atendido una Asamblea de Cuidados puede atender y
 contribuir con propuestas en la Asamblea Organizativa. Se fomenta la
 participación de los grupos de trabajo con la presencia de al menos uno
 de sus integrantes. La Asamblea Organizativa se encarga de presentar un
-resúmen del encuentro en la Asamblea General, y de distribuirlo al
+resúmen del encuentro en la Asamblea de Cuidados, y de distribuirlo al
 directorio de correo electrónico.
 
 ### Grupos de Trabajo del MACC
@@ -71,7 +71,7 @@ directorio de correo electrónico.
 Los grupos de trabajo se concentran en actividades concretas de
 organización del MACC y del movimiento anarquista en la ciudad de Nueva
 York. También se encargan de preparar **resúmenes** para la Asamblea
-General. ¡Incentivamos la formación de nuevos grupos!
+de Cuidados. ¡Incentivamos la formación de nuevos grupos!
 
 ## Principios
 
@@ -125,7 +125,7 @@ possible, horizontal en vez de jerárquica.
     el proceso de asamblea
 
 -   Habra una explicación breve que ilustre paso a paso el proceso de la
-    Asamblea General
+    Asamblea de Cuidados
 
 -   R**esúmenes de los grupos de trabajo**
 
@@ -201,7 +201,7 @@ en la discusión, ya sea escrita, o del sentir del grupo. Fomentan la
 participación por medio de preguntas y ayudan a clarificar y articular
 las ideas de los participantes. La persona facilitando se asegura de que
 los distintos mecanismos de participación estén disponibles durante la
-Asamblea General en turno y se encarga de definir a lxs facilitadorxs
+Asamblea de Cuidados en turno y se encarga de definir a lxs facilitadorxs
 del próximo evento.
 
 *Arbitrx de participación:* Genera una lista de los participantes que
@@ -225,4 +225,4 @@ y así facilitar la continuidad del proceso.
 *Edecanes:* Dos edecanes se encargan de recibir y orientar a lxs
 participantes. Lxs edecanes obtienen correos electrónicos de la gente
 nueva y se encargan de mantener comunicación después de la Asamblea
-General para que se incorporen a los grupos de trabajo.
+de Cuidados para que se incorporen a los grupos de trabajo.
