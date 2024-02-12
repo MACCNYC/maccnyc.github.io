@@ -4,8 +4,18 @@ permalink: "/events"
 layout: simple-page
 ---
 
-<div data-tockify-component="calendar" data-tockify-calendar="mlsupport"></div>
+<iframe id="calendar" frameborder="0" allowfullscreen="" title="calendar" src="https://tockify.com/mlsupport"></iframe>
 
 Check out <a target='_blank' href="http://anarchism.nyc">anarchism.nyc</a> for more NYC anarchist events!
 
-<script id="tockify-embed-script" data-cfasync="false" data-tockify-script="embed"  src="https://public.tockify.com/browser/embed.js"></script>
+<script>
+	function resizeCal() {
+		const cal = document.getElementById("calendar");
+		cal.width = cal.parentElement.offsetWidth;
+		cal.height = window.innerHeight - 250;
+	}
+
+	resizeCal();
+
+	window.addEventListener('resize', resizeCal, true);
+</script>
