@@ -6,18 +6,6 @@ layout: simple-page
 
 Monetary support helps us keep the lights on for our working groups and helps us support our comrades doing political work. Support cost often includes bail, other legal expenses, and medical expenses. Thank you for any support you can give!
 
-<!--- 
-## Send MACC Comrades to Anarchy 2023
-
-<img src="https://st-imier.org/static/st-imier.org/images/Anarchy-2023-560px.png" width="212" height="300">
-
-<form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="hosted_button_id" value="QA5YZS6SDP9M4" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
---->
-
 ## One time support
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
