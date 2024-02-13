@@ -8,6 +8,8 @@ Monetary support helps us keep the lights on for our working groups and helps us
 
 ## One time support
 
+### PayPal
+
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="H6RL4XCPSLHKW">
@@ -15,7 +17,17 @@ Monetary support helps us keep the lights on for our working groups and helps us
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+### Zelle
+
+You can <a href="https://enroll.zellepay.com/qr-codes?data=eyJuYW1lIjoiTUFDQyBOWUMgSU5DIiwidG9rZW4iOiJmaW5hbmNlc0BtYWNjLm55YyIsImFjdGlvbiI6InBheW1lbnQifQ==">make a one-time donation via Zelle</a>, paying to finances@macc.nyc.
+
+### Cash
+
+You can make a cash donation at the end of any <a href="/events">Care Assembly</a>.
+
 ## Monthly support
+
+### PayPal
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <select name="os0">
@@ -41,3 +53,7 @@ Monetary support helps us keep the lights on for our working groups and helps us
 </form>
 
 Or click "Donate" above and select "Make this a monthly donation."
+
+### Zelle
+
+Depending on your bank, you may be able to <a href="https://enroll.zellepay.com/qr-codes?data=eyJuYW1lIjoiTUFDQyBOWUMgSU5DIiwidG9rZW4iOiJmaW5hbmNlc0BtYWNjLm55YyIsImFjdGlvbiI6InBheW1lbnQifQ==">make a recurring donation via Zelle</a>, paying to finances@macc.nyc.
