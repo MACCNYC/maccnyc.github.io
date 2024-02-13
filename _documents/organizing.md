@@ -40,9 +40,9 @@ The purpose of the assembly is to generate and coordinate on citywide statements
 
 ### MACC Organizing Assembly
 The Organizing Assembly happens monthly.
-Anyone who has attended one GA can attend and bring proposals to the Organizing Assembly.
+Anyone who has attended one Care Assembly can attend and bring proposals to the Organizing Assembly.
 Each working group is encouraged to send at least one member.
-The Organizing Assembly will reportback back at the GA and will share minutes from the meeting via the internal mailing list.
+The Organizing Assembly will share minutes from the meeting via internal communication.
 
 ### MACC Working Groups
 
@@ -71,12 +71,11 @@ New working groups are encouraged to form!
 
 ### Assembly Agenda and Structure
 * Every assembly begins with a brief orientation for new participants. This will include, but not be limited to a discussion on shared principles, goals, structure, and the process used.
-* There will be brief explanation of process steps as they happen during the GA.
+* There will be brief explanation of process steps as they happen during the CA.
 * Reportbacks / PSAs
 * Discussion / Proposals
 * Additional items people bring that night
 * Break-outs for MACC working groups and movement groups
-* All meetings are no more than 90 min in length
 
 ### Decision Making Process
 
@@ -117,7 +116,7 @@ The operating principle is still consent of all.
 *Facilitator:* Helps to guide the group through its own process.
 They listen to, reflect on, and synthesize information that is spoken, written, or felt in the group.
 They encourage participation by asking questions and helping to clarify what people want to say or do.
-The facilitator makes sure that roles are filled for the GA they are facilitating and also ensures that there is a facilitator for the next meeting.
+The facilitator makes sure that roles are filled for the CA they are facilitating and also ensures that there is a facilitator for the next meeting.
 
 *Stacktaker:* Keeps a list of those who want to speak and calls on them in order.
 As a general principle, the stacktaker should prioritize people who have not spoken yet or have not spoken as much.
@@ -131,4 +130,4 @@ The notetaker is responsible for emailing the notes to the internal mailing list
 
 *Greeter:* There will be two greeters.
 A greeter welcomes people to the assembly and helps orient them to the process.
-These greeters will also gather the email addresses of new people and reach out to them after the GA to help them plug into working groups.
+These greeters will also gather the email addresses of new people and reach out to them after the CA to help them plug into working groups.
