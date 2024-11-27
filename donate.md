@@ -4,4 +4,4 @@ permalink: "/donate"
 layout: simple-page
 ---
 
-MACC is no longer accepting financial donations.
+MACC is no longer accepting donations.
